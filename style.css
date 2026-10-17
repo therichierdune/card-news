@@ -14,13 +14,19 @@
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
+html {
+  -webkit-text-size-adjust: 100%; /* 아이폰 가로 모드에서 글자 커짐 방지 */
+  overflow-x: hidden;
+}
+
 body {
-  background: radial-gradient(ellipse at top, #0a2a1a 0%, var(--bg) 60%) fixed, var(--bg);
+  background: radial-gradient(ellipse 120% 600px at top, #0a2a1a 0%, var(--bg) 100%) no-repeat, var(--bg);
   color: var(--text);
   font-family: "Pretendard", "Inter", system-ui, sans-serif;
   line-height: 1.6;
   min-height: 100vh;
   overflow-x: hidden;
+  -webkit-tap-highlight-color: transparent;
 }
 
 /* ===== 배경 빛 ===== */
@@ -45,7 +51,8 @@ body {
 .container {
   max-width: 1120px;
   margin: 0 auto;
-  padding: 48px 16px 64px;
+  /* 노치·홈 바 영역을 피해서 여백을 줘요 */
+  padding: 48px max(16px, env(safe-area-inset-right)) max(64px, env(safe-area-inset-bottom)) max(16px, env(safe-area-inset-left));
 }
 
 .hero { margin-bottom: 40px; }
@@ -56,11 +63,14 @@ body {
   font-weight: 600;
 }
 .hero h1 {
-  font-size: 32px;
+  font-size: 34px;
   font-weight: 800;
+  line-height: 1.2;
   letter-spacing: -0.02em;
-  margin: 6px 0;
+  margin: 6px 0 10px;
 }
+/* 휴대폰에서는 "Dune's Daily / Bullet Train" 두 줄로 나눠요 */
+.hero h1 .gradient-text { display: block; }
 .gradient-text {
   background: linear-gradient(90deg, var(--blue), var(--purple));
   -webkit-background-clip: text;
@@ -280,6 +290,7 @@ body {
 @media (min-width: 640px) {
   .container { padding: 64px 24px 80px; }
   .hero h1 { font-size: 42px; }
+  .hero h1 .gradient-text { display: inline; }
   .cards { grid-template-columns: repeat(2, 1fr); gap: 20px; }
   .gloss-list { grid-template-columns: repeat(2, 1fr); }
 }
@@ -290,6 +301,16 @@ body {
   .cards { grid-template-columns: repeat(3, 1fr); }
   .gloss-list { grid-template-columns: repeat(3, 1fr); }
   .card:hover { transform: translateY(-4px); }
+}
+
+/* ===== 휴대폰: 유리 효과를 가볍게 해서 스크롤이 버벅이지 않게 해요 ===== */
+@media (max-width: 639px) {
+  .card, .gloss-item {
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+    background: rgba(12, 40, 26, 0.72);
+  }
+  .glow { width: 300px; height: 300px; filter: blur(90px); animation: none; }
 }
 
 /* 움직임을 줄이고 싶은 사용자 배려 */
