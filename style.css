@@ -1,0 +1,299 @@
+/* ===== 색상 모음 ===== */
+:root {
+  --bg: #03140c;
+  --text: #e8f7ee;
+  --muted: #86a596;
+  --glass: rgba(180, 255, 210, 0.05);
+  --glass-border: rgba(180, 255, 210, 0.12);
+  --blue: #3df08b;   /* 메인 네온 초록 */
+  --purple: #22d3c5; /* 보조 청록 */
+  --economy: #4fd6ff;
+  --realestate: #3ee0b5;
+  --politics: #b6f35a;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: radial-gradient(ellipse at top, #0a2a1a 0%, var(--bg) 60%) fixed, var(--bg);
+  color: var(--text);
+  font-family: "Pretendard", "Inter", system-ui, sans-serif;
+  line-height: 1.6;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* ===== 배경 빛 ===== */
+.glow {
+  position: fixed;
+  width: 420px;
+  height: 420px;
+  border-radius: 50%;
+  filter: blur(120px);
+  opacity: 0.35;
+  z-index: -1;
+  animation: float 14s ease-in-out infinite alternate;
+}
+.glow-blue { background: var(--blue); top: -120px; left: -140px; }
+.glow-purple { background: var(--purple); bottom: -160px; right: -140px; animation-delay: -7s; }
+
+@keyframes float {
+  to { transform: translate(60px, 40px) scale(1.1); }
+}
+
+/* ===== 레이아웃 (모바일 기준) ===== */
+.container {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 48px 16px 64px;
+}
+
+.hero { margin-bottom: 40px; }
+.eyebrow {
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  color: var(--blue);
+  font-weight: 600;
+}
+.hero h1 {
+  font-size: 32px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin: 6px 0;
+}
+.gradient-text {
+  background: linear-gradient(90deg, var(--blue), var(--purple));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.date { color: var(--muted); font-size: 14px; }
+.tagline { color: var(--text); font-size: 15px; margin-top: 4px; opacity: 0.85; }
+
+/* ===== 카드 ===== */
+.cards {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+}
+
+.card {
+  --accent: var(--blue);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 20px 20px;
+  background: var(--glass);
+  border: 1px solid var(--glass-border);
+  border-radius: 20px;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  overflow: hidden;
+  opacity: 0;
+  transform: translateY(16px);
+  animation: rise 0.5s ease forwards;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease, transform 0.3s ease;
+}
+.card::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto 0;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--accent), transparent);
+}
+.card:hover {
+  border-color: color-mix(in srgb, var(--accent) 50%, transparent);
+  box-shadow: 0 8px 40px color-mix(in srgb, var(--accent) 22%, transparent);
+}
+.card.economy { --accent: var(--economy); }
+.card.realestate { --accent: var(--realestate); }
+.card.politics { --accent: var(--politics); }
+
+@keyframes rise {
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+.badge {
+  font-size: 12px;
+  font-weight: 700;
+  padding: 4px 10px;
+  border-radius: 999px;
+  color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 14%, transparent);
+}
+.rank {
+  font-size: 13px;
+  font-weight: 800;
+  color: var(--muted);
+}
+.rank.top { color: var(--accent); text-shadow: 0 0 12px var(--accent); }
+
+.card h2 {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.45;
+  letter-spacing: -0.01em;
+  margin-bottom: 12px;
+  word-break: keep-all;
+}
+
+.summary {
+  list-style: none;
+  color: #c4c9dc;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+.summary li {
+  position: relative;
+  padding-left: 14px;
+  margin-bottom: 6px;
+  word-break: keep-all;
+}
+.summary li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.65em;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--accent);
+}
+
+/* ===== 카드 속 어려운 말 풀이 ===== */
+.terms {
+  margin-bottom: 20px;
+  border: 1px solid var(--glass-border);
+  border-radius: 14px;
+  background: rgba(0, 0, 0, 0.18);
+}
+.terms summary {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 44px;
+  padding: 0 14px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--accent);
+  cursor: pointer;
+  list-style: none;
+}
+.terms summary::-webkit-details-marker { display: none; }
+.terms summary::after {
+  content: "＋";
+  margin-left: auto;
+  transition: transform 0.25s ease;
+}
+.terms[open] summary::after { transform: rotate(45deg); }
+.terms .count {
+  font-size: 11px;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--accent) 16%, transparent);
+}
+.terms dl { padding: 0 14px 12px; font-size: 13px; }
+.terms dt { color: var(--text); font-weight: 700; margin-top: 8px; }
+.terms dd { color: #b9cfc2; word-break: keep-all; }
+
+/* ===== 오늘의 용어 사전 ===== */
+.glossary { margin-top: 56px; }
+.gloss-title { font-size: 24px; font-weight: 800; letter-spacing: -0.01em; }
+.gloss-desc { color: var(--muted); font-size: 14px; margin: 4px 0 20px; }
+.gloss-list { display: grid; grid-template-columns: 1fr; gap: 10px; }
+.gloss-item {
+  --accent: var(--blue);
+  padding: 14px 16px;
+  background: var(--glass);
+  border: 1px solid var(--glass-border);
+  border-radius: 16px;
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+}
+.gloss-item.economy { --accent: var(--economy); }
+.gloss-item.realestate { --accent: var(--realestate); }
+.gloss-item.politics { --accent: var(--politics); }
+.gloss-item dt { display: flex; align-items: center; gap: 8px; font-weight: 700; font-size: 15px; }
+.gloss-item .dot {
+  width: 7px; height: 7px; border-radius: 50%;
+  background: var(--accent);
+  box-shadow: 0 0 8px var(--accent);
+}
+.gloss-item dd { color: #b9cfc2; font-size: 14px; margin-top: 4px; word-break: keep-all; }
+
+/* ===== 점수 막대 ===== */
+.metrics { display: grid; gap: 8px; margin-top: auto; }
+.metric {
+  display: grid;
+  grid-template-columns: 72px 1fr 28px;
+  align-items: center;
+  gap: 10px;
+  font-size: 12px;
+  color: var(--muted);
+}
+.metric.highlight .metric-name { color: var(--text); font-weight: 600; }
+.bar {
+  height: 6px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.07);
+  overflow: hidden;
+}
+.bar span {
+  display: block;
+  height: 100%;
+  width: 0;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--accent), var(--purple));
+  transition: width 0.9s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+.metric-value { text-align: right; color: var(--text); font-variant-numeric: tabular-nums; }
+
+.source {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 44px;
+  margin-top: 16px;
+  padding-top: 12px;
+  border-top: 1px solid var(--glass-border);
+  color: var(--muted);
+  font-size: 13px;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+.source:hover { color: var(--accent); }
+
+.footer {
+  margin-top: 48px;
+  text-align: center;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+/* ===== 태블릿 ===== */
+@media (min-width: 640px) {
+  .container { padding: 64px 24px 80px; }
+  .hero h1 { font-size: 42px; }
+  .cards { grid-template-columns: repeat(2, 1fr); gap: 20px; }
+  .gloss-list { grid-template-columns: repeat(2, 1fr); }
+}
+
+/* ===== PC ===== */
+@media (min-width: 1024px) {
+  .hero h1 { font-size: 52px; }
+  .cards { grid-template-columns: repeat(3, 1fr); }
+  .gloss-list { grid-template-columns: repeat(3, 1fr); }
+  .card:hover { transform: translateY(-4px); }
+}
+
+/* 움직임을 줄이고 싶은 사용자 배려 */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+  .card { opacity: 1; transform: none; }
+}

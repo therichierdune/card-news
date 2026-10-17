@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dune's Daily Bullet Train</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- 배경에 은은하게 떠다니는 빛 -->
+  <div class="glow glow-blue"></div>
+  <div class="glow glow-purple"></div>
+
+  <main class="container">
+    <header class="hero">
+      <p class="eyebrow">DAILY BRIEFING</p>
+      <h1>Dune's Daily <span class="gradient-text">Bullet Train</span></h1>
+      <p class="date" id="date"></p>
+      <p class="tagline">정치 · 부동산 · 경제, 오늘 꼭 알아야 할 9가지</p>
+    </header>
+
+    <section class="cards" id="cards"></section>
+
+    <!-- 오늘의 용어 사전 (script.js가 채워요) -->
+    <section class="glossary" id="glossary"></section>
+
+    <footer class="footer">
+      순위는 조회수 · 이슈 · 여론관심도 세 점수의 평균이에요.<br />
+      점수는 기사 내용을 바탕으로 한 추정 지수(0~100)예요.<br />
+      자세한 내용은 각 카드의 원문 링크에서 확인하세요.
+    </footer>
+  </main>
+
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
