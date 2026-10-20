@@ -12,6 +12,7 @@
 ## 배포 (어디서 작업하든 똑같아요)
 - 사이트: https://therichierdune.github.io/card-news/ (GitHub Pages, `main` 브랜치 그대로 공개)
 - 수정하면 **`main` 브랜치에 바로 커밋·푸시**해요. 다른 브랜치나 PR로 올리면 사이트에 반영되지 않아요.
+- 매일 06시(KST)에 GitHub Actions(`.github/workflows/rank.yml`)가 네이버·네이트·다음 인기 순위를 `rank.txt`로 저장해요.
 - 매일 07시(KST)에 클라우드 예약 작업이 `data.js`를 새로 써서 `main`에 올려요. 작업 전에 항상 최신 `main`을 받아온 뒤 시작해요.
 - 화면(index.html, style.css, script.js)을 바꾸면 휴대폰 폭(375px)에서 깨지지 않는지 꼭 확인해요.
 
