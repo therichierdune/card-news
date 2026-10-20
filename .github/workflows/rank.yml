@@ -1,0 +1,30 @@
+# 매일 06:00(KST)에 네이버·네이트·다음 인기 순위를 받아서 rank.txt로 저장해요.
+# 07시 클라우드 Claude가 이 파일을 읽고 기사를 골라요.
+name: 인기 순위 수집
+
+on:
+  schedule:
+    - cron: "0 21 * * *"   # UTC 21:00 = 한국 시간 06:00
+  workflow_dispatch:        # 버튼으로 바로 돌려볼 수도 있어요
+
+permissions:
+  contents: write
+
+jobs:
+  rank:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: 순위 수집
+        run: node rank.js | tee rank.txt
+      - name: 저장
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add rank.txt
+          git diff --cached --quiet || git commit -m "인기 순위 수집 $(TZ=Asia/Seoul date +'%F %H:%M')"
+          git pull --rebase -q origin main
+          git push -q origin main
