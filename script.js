@@ -76,9 +76,11 @@ function cardHTML(item, rank, delay) {
         <span class="rank ${rank <= 3 ? "top" : ""}">#${rank} · ${totalScore(item)}점</span>
       </div>
       <h2>${item.title}</h2>
+      ${item.why ? `<p class="why"><span>왜 읽어야 하나</span>${item.why}</p>` : ""}
       ${item.followup ? `<p class="followup"><span>어제와 달라진 점</span>${item.followup}</p>` : ""}
       <ul class="summary">${summary}</ul>
       ${termsHTML(item)}
+      ${item.rank ? `<p class="hot">🔥 ${item.rank}</p>` : ""}
       <div class="metrics">${metrics}</div>
       <a class="source" href="${item.url}" target="_blank" rel="noopener">
         <span>${item.source}</span><span>원문 보기 →</span>
@@ -86,9 +88,10 @@ function cardHTML(item, rank, delay) {
     </article>`;
 }
 
-// 9개 기사를 종합 점수 높은 순으로 그려요
+// 오늘 기사(3~9개)를 종합 점수 높은 순으로 그려요
 function render() {
   const list = [...NEWS].sort((a, b) => totalScore(b) - totalScore(a));
+  document.getElementById("count").textContent = list.length;
 
   const box = document.getElementById("cards");
   box.innerHTML = list.map((item, i) => cardHTML(item, i + 1, i * 60)).join("");
