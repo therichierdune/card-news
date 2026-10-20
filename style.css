@@ -176,6 +176,25 @@ body {
   background: var(--accent);
 }
 
+/* ===== 어제 이슈의 새 진전 표시 ===== */
+.followup {
+  margin: -4px 0 14px;
+  padding: 8px 12px;
+  border-left: 2px solid var(--accent);
+  border-radius: 0 10px 10px 0;
+  background: color-mix(in srgb, var(--accent) 8%, transparent);
+  font-size: 13px;
+  color: var(--text);
+  word-break: keep-all;
+}
+.followup span {
+  display: block;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--accent);
+  margin-bottom: 2px;
+}
+
 /* ===== 카드 속 어려운 말 풀이 ===== */
 .terms {
   margin-bottom: 20px;

@@ -76,6 +76,7 @@ function cardHTML(item, rank, delay) {
         <span class="rank ${rank <= 3 ? "top" : ""}">#${rank} · ${totalScore(item)}점</span>
       </div>
       <h2>${item.title}</h2>
+      ${item.followup ? `<p class="followup"><span>어제와 달라진 점</span>${item.followup}</p>` : ""}
       <ul class="summary">${summary}</ul>
       ${termsHTML(item)}
       <div class="metrics">${metrics}</div>
