@@ -20,9 +20,12 @@ function load(code) {
 // (같은 기사가 주소 모양만 다르게 나오는 경우도 잡기 위해서예요)
 function articleKey(url) {
   const u = new URL(url);
-  const host = u.hostname.replace(/^(www|m|v|n|news|biz)\./, "");
-  const ids = (u.pathname + u.search).match(/\d{5,}/g);
-  const id = ids ? ids.sort((a, b) => b.length - a.length)[0] : u.pathname.replace(/\/+$/, "");
+  const host = u.hostname.replace(/^((www|m|v|n|news|biz)\.)+/, "");
+  // 주소를 조각내서 숫자가 5개 이상 들어간 가장 긴 조각을 기사 번호로 써요
+  // (예: 네이트 "20261020n21459"는 통째로 하나의 번호예요)
+  const parts = (u.pathname + "/" + u.search).split(/[^0-9A-Za-z]+/)
+    .filter((p) => (p.match(/\d/g) || []).length >= 5);
+  const id = parts.length ? parts.sort((a, b) => b.length - a.length)[0] : u.pathname.replace(/\/+$/, "");
   return host + "|" + id;
 }
 

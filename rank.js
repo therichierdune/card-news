@@ -9,7 +9,9 @@ const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 
 // 페이지를 받아와요. 한글 인코딩(UTF-8 / EUC-KR)은 알아서 맞춰요.
 async function getText(url) {
-  const res = await fetch(url, { headers: { "User-Agent": UA } });
+  const res = await fetch(url, {
+    headers: { "User-Agent": UA, "Accept-Language": "ko-KR,ko;q=0.9", "Accept": "text/html,application/xhtml+xml" },
+  });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const buf = await res.arrayBuffer();
   const utf8 = new TextDecoder("utf-8").decode(buf);
@@ -25,7 +27,10 @@ function clean(s) {
 
 // 네이버: 언론사별 많이 본 뉴스 (언론사마다 1~5위)
 async function naver() {
-  const html = await getText("https://news.naver.com/main/ranking/popularDay.naver");
+  // PC 주소가 막히면 모바일 주소로 한 번 더 시도해요
+  let html;
+  try { html = await getText("https://news.naver.com/main/ranking/popularDay.naver"); }
+  catch (e) { html = await getText("https://m.news.naver.com/main/ranking/popularDay.naver"); }
   const out = [];
   const boxes = html.split('class="rankingnews_box"').slice(1);
   for (const box of boxes) {

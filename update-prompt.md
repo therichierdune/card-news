@@ -13,6 +13,8 @@
     - 네이버: https://news.naver.com/main/ranking/popularDay.naver
     - 네이트: https://news.nate.com/rank/interest?sc=all (정치 sc=pol, 경제 sc=eco)
     - 다음: https://news.daum.net/ (실시간 트렌드 키워드)
+  - 네이버는 클라우드에서 막힐 때가 있어요(403). 그러면 네이트·다음 순위만으로 진행해요.
+  - 네이트 기사 본문은 EUC-KR이라 WebFetch로 읽으면 한글이 깨져요. `curl -sL 주소 | iconv -f euc-kr -t utf-8 -c`로 읽어요.
 - 정치·부동산·경제 기사 가운데 **이 순위에 오른 기사나 사건**을 먼저 후보로 삼아요. 연예·사건사고·스포츠는 빼요.
 - 카드마다 `rank`에 근거를 적어요. 예: `rank: "네이트 정치 2위 · 네이버 연합뉴스 1위"`, `rank: "다음 실시간 트렌드 3위 '금통위'"`
   - 순위표에 실제로 있던 것만 적어요. 지어내지 않아요.
