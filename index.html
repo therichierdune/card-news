@@ -6,7 +6,11 @@
   <meta name="theme-color" content="#03140c" />
   <title>Dune's Daily Bullet Train</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
-  <link rel="stylesheet" href="style.css" />
+  <!-- 열 때마다 최신 파일을 받아오도록 주소 뒤에 시각(?v=...)을 붙여요 -->
+  <script>
+    window.BUST = Date.now();
+    document.write('<link rel="stylesheet" href="style.css?v=' + BUST + '" />');
+  </script>
 </head>
 <body>
   <!-- 배경에 은은하게 떠다니는 빛 -->
@@ -35,7 +39,15 @@
     </footer>
   </main>
 
-  <script src="data.js"></script>
-  <script src="script.js"></script>
+  <!-- data.js를 먼저, 그다음 script.js를 항상 새로 받아와요 -->
+  <script>
+    function load(src, next) {
+      const s = document.createElement("script");
+      s.src = src + "?v=" + BUST;
+      s.onload = next;
+      document.body.appendChild(s);
+    }
+    load("data.js", () => load("script.js"));
+  </script>
 </body>
 </html>
