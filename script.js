@@ -88,7 +88,7 @@ function cardHTML(item, rank, delay) {
     </article>`;
 }
 
-// 오늘 기사(3~9개)를 종합 점수 높은 순으로 그려요
+// 오늘 기사(기본 9개)를 종합 점수 높은 순으로 그려요
 function render() {
   const list = [...NEWS].sort((a, b) => totalScore(b) - totalScore(a));
   document.getElementById("count").textContent = list.length;

@@ -1,8 +1,9 @@
 // ===============================================
 // data.js 검사기
 // 사용법: node check.js
-//   1) 개수: 전체 3~9개, 분야마다 0~4개 (좋은 기사가 없으면 억지로 채우지 않아요)
-//   2) 품질 기준: 종합 점수 75점 이상, 기사 날짜가 3일 이내인지
+//   1) 개수: 기본 9개, 불가피하면 5개까지 (분야마다 0~4개)
+//      9개보다 적으면 SHORT_REASON(왜 못 채웠는지)이 꼭 있어야 해요.
+//   2) 품질 기준: 종합 점수 65점 이상(75점 이상 우선), 기사 날짜가 3일 이내인지
 //   3) why(왜 읽어야 하나)가 있는지
 //   4) rank(네이버·다음·네이트 실제 인기 순위 근거)가 없으면 조회수 점수를 70점 넘게 못 줘요
 //   5) 전날 기사와 겹치지 않는지 (같은 기사 주소 / 비슷한 제목)
@@ -13,7 +14,7 @@ const fs = require("fs");
 const { execSync } = require("child_process");
 
 function load(code) {
-  return new Function(code + ";return { date: NEWS_DATE, news: NEWS };")();
+  return new Function(code + ";return { date: NEWS_DATE, news: NEWS, shortReason: typeof SHORT_REASON === \"undefined\" ? \"\" : SHORT_REASON };")();
 }
 
 // 기사 주소를 '사이트 + 기사 번호'로 바꿔요.
@@ -44,9 +45,9 @@ function similarity(a, b) {
 }
 
 const SIMILAR_LIMIT = 0.5;
-const MIN_SCORE = 75;         // 종합 점수 최소 기준
+const MIN_SCORE = 65;         // 종합 점수 최소 기준 (75점 이상으로 먼저 채우고, 모자라면 65~74점으로 채워요)
 const MAX_AGE_DAYS = 3;       // NEWS_DATE보다 며칠까지 지난 기사를 허용할지
-const TOTAL_MIN = 3, TOTAL_MAX = 9;
+const TOTAL_MIN = 5, TOTAL_MAX = 9; // 기본 9개, 불가피할 때만 5개까지
 const CAT_MAX = 4;
 const NO_RANK_VIEWS_MAX = 70; // 인기 순위 근거가 없으면 조회수 점수 상한
 
@@ -81,6 +82,12 @@ cur.news.forEach((n) => {
 });
 if (cur.news.length < TOTAL_MIN || cur.news.length > TOTAL_MAX) {
   errors.push(`기사가 ${cur.news.length}개예요. ${TOTAL_MIN}~${TOTAL_MAX}개여야 해요.`);
+}
+if (cur.news.length < TOTAL_MAX && !String(cur.shortReason).trim()) {
+  errors.push(`기사가 ${cur.news.length}개예요. 기본은 ${TOTAL_MAX}개예요. 65~74점 후보까지 찾아서 채우고, 정말 불가피하면 SHORT_REASON에 이유를 써요.`);
+}
+if (cur.news.length === TOTAL_MAX && String(cur.shortReason).trim()) {
+  errors.push(`9개를 채웠으니 SHORT_REASON은 지워요.`);
 }
 for (const k of Object.keys(count)) {
   if (count[k] > CAT_MAX) errors.push(`${k} 기사가 ${count[k]}개예요. 분야마다 ${CAT_MAX}개까지예요.`);
@@ -149,4 +156,5 @@ if (errors.length) {
   errors.forEach((e) => console.log(" - " + e));
   process.exit(1);
 }
+if (cur.shortReason) console.log(`ℹ️ ${cur.news.length}개만 넣은 이유: ${cur.shortReason}`);
 console.log(`✅ 검사 통과 (${cur.date}, ${cur.news.length}개${prev ? `, 전날 ${prev.date}과 중복 없음` : ""})`);
