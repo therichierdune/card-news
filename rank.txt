@@ -1,474 +1,478 @@
-인기 순위 수집 시각: 2026. 11. 22. 오전 9:52:10
+인기 순위 수집 시각: 2026. 11. 23. 오전 10:21:18
 
-### 네이버 많이 본 뉴스 (언론사별 순위) (405개)
-국민일보 1위 | “면접 더 어려워질라”…AI 커닝에 노무사 2차 합격생도 ‘긴장’ | https://n.news.naver.com/article/005/0001886585?ntype=RANKING
-국민일보 2위 | “이 글도 조롱하겠지”… ‘리트 만점자’ 이진우의 마지막 메모 | https://n.news.naver.com/article/005/0001886567?ntype=RANKING
-국민일보 3위 | 배우도 촬영장도 필요 없다… AI 드라마, 숏폼 넘어 빠르게 확산 | https://n.news.naver.com/article/005/0001886522?ntype=RANKING
-국민일보 4위 | 트럼프, 미·중·러 회담과 얄타 회담 사진 나란히 올리며 “강대국들” | https://n.news.naver.com/article/005/0001886587?ntype=RANKING
-국민일보 5위 | 아프리카 아이들과 11년만 다시 웨딩 사진, 참 예쁘죠? | https://n.news.naver.com/article/005/0001886582?ntype=RANKING
-SBS 1위 | 이제 객관식 말고 서·논술형으로?…'수능 개편론' 급부상 | https://n.news.naver.com/article/055/0001404817?ntype=RANKING
-SBS 2위 | '삐삐삐' AI가 30초 만에 껐다…'재난문자' 감독도 빈틈? | https://n.news.naver.com/article/055/0001404799?ntype=RANKING
-SBS 3위 | '쾅' 순식간에 인도 덮쳤다…승객 6명 병원 이송 | https://n.news.naver.com/article/055/0001404819?ntype=RANKING
-SBS 4위 | "로또 안 줘?" 식당 주인 부부 흉기로…무기징역→45년 감형 | https://n.news.naver.com/article/055/0001404823?ntype=RANKING
-SBS 5위 | 출소 반 년만 '수직 상승'…"조력자 있었나?" | https://n.news.naver.com/article/055/0001404798?ntype=RANKING
-조선일보 1위 | 추성훈, 복수 못한 은퇴전... 22년 격투 인생 마침표 | https://n.news.naver.com/article/023/0004010977?ntype=RANKING
-조선일보 2위 | 한동훈 “與, 조희대 탄핵 발의 12월 3일 꼭 하라... 모두 감옥갈 것” | https://n.news.naver.com/article/023/0004010973?ntype=RANKING
-조선일보 3위 | 우동 한그릇 3200원… 日식당 눈물의 음식값 인하 | https://n.news.naver.com/article/023/0004010906?ntype=RANKING
-조선일보 4위 | “가죽 재킷 입은 남자는 믿지 마라” | https://n.news.naver.com/article/023/0004010869?ntype=RANKING
-조선일보 5위 | “같은 정품인데 비싼 것만 남았다”… 갑자기 수입 엔진오일 가격 뛴 이유는? | https://n.news.naver.com/article/023/0004010932?ntype=RANKING
-서울신문 1위 | “매우 드문 일” 日, ‘공짜 땅’ 생기나…바다서 솟구친 ‘육지’ 정체 [포착] | https://n.news.naver.com/article/081/0003701775?ntype=RANKING
-서울신문 2위 | “한쪽 얼굴에만 피부암 24개”…70대男 “10대 때 여드름 방사선 치료”[헬스픽] | https://n.news.naver.com/article/081/0003701790?ntype=RANKING
-서울신문 3위 | 로또 안 줬다고 식당 女주인 살해한 60대男 ‘감형’… 法 “치료비 532만원 지급 노력” | https://n.news.naver.com/article/081/0003701792?ntype=RANKING
-서울신문 4위 | “AI에 다 뚫렸다” 난리났는데 시험장서 또 벨소리… “취업 어떡하나” 회계사 선발 3년 연속 축소 전망 | https://n.news.naver.com/article/081/0003701791?ntype=RANKING
-서울신문 5위 | “넌 낙태됐어야” “뇌에 오줌 눈다”…불륜 젠슨황 ‘복귀 못하게 된’ 진짜 이유 | https://n.news.naver.com/article/081/0003701788?ntype=RANKING
-YTN 1위 | "젠슨 형, 왜 여기서 나와?"...스캔들의 기막힌 변신 | https://n.news.naver.com/article/052/0002436225?ntype=RANKING
-YTN 2위 | 수능 뒤 더 커진 '부실' 논란..."역사상 최악의 장관" | https://n.news.naver.com/article/052/0002436227?ntype=RANKING
-YTN 3위 | 응급실 인력난에 '군의관 카드'...현실화 변수는 | https://n.news.naver.com/article/052/0002436228?ntype=RANKING
-YTN 4위 | 속도 내는 '조희대 탄핵'...법관회의 '주목' | https://n.news.naver.com/article/052/0002436265?ntype=RANKING
-YTN 5위 | 올가을 최강 추위, 오늘도 서울 -4℃...빙판길 유의 | https://n.news.naver.com/article/052/0002436231?ntype=RANKING
-조선비즈 1위 | [Why] 사라진 “국물이 끝~내줘요”… 라면 광고에서 먹는 장면이 없어진 이유 | https://n.news.naver.com/article/366/0001206407?ntype=RANKING
-조선비즈 2위 | ‘bhc 인수 10년’ 큰맘할매순대국… 가맹점 수 계속 줄어드는 까닭은 | https://n.news.naver.com/article/366/0001206417?ntype=RANKING
-조선비즈 3위 | 월세 깎느니 1년 공짜… 건물주들, ‘렌트프리’로 버틴다 | https://n.news.naver.com/article/366/0001206413?ntype=RANKING
-조선비즈 4위 | 中 희토류·영구자석 수출 제한에 발목 잡힌 로봇업계 | https://n.news.naver.com/article/366/0001206414?ntype=RANKING
-조선비즈 5위 | 美 중간선거 참패 틈타… EU, 빅테크 겨냥 디지털세 도입 추진 | https://n.news.naver.com/article/366/0001206402?ntype=RANKING
-매일경제 1위 | 로또 2등, 판매점 한곳서 ‘10장’ 쏟아졌다…동일인이면 5억 받는다 | https://n.news.naver.com/article/009/0005767064?ntype=RANKING
-매일경제 2위 | 14살에 ‘합격률 7%대’ 공인회계사 시험 합격…일본서 최연소 기록 경신 | https://n.news.naver.com/article/009/0005767012?ntype=RANKING
-매일경제 3위 | 김신영 수영복 공개에 박나래 소환…‘나혼산’ 뜬금포 갑론을박 | https://n.news.naver.com/article/009/0005767004?ntype=RANKING
-매일경제 4위 | “집 한 칸은 해주고 싶은데”…은퇴 앞둔 부모, 재산 언제 물려줘야 할까 [퇴직금 들고 나왔습니다] | https://n.news.naver.com/article/009/0005767078?ntype=RANKING
-매일경제 5위 | “괜찮으세요?” 김연경도 걱정…최미나수, 8도 추위에 드레스 입고 ‘덜덜’ | https://n.news.naver.com/article/009/0005766998?ntype=RANKING
-한국경제 1위 | "저처럼 살 빼지 마세요"…17kg 감량한 여배우의 경고 [건강!톡] | https://n.news.naver.com/article/015/0005356640?ntype=RANKING
-한국경제 2위 | 4년간 전원 합격했는데…노무사 최종면접 앞두고 무슨 일이 | https://n.news.naver.com/article/015/0005356641?ntype=RANKING
-한국경제 3위 | "일본 가서 샀으면 큰일 날 뻔"…명품 30만원 싸게 산 비결 [박수림의 요즘 여기] | https://n.news.naver.com/article/015/0005356639?ntype=RANKING
-한국경제 4위 | 남직원도 생리수당?…월 7만원 따박따박 받아가더니 '날벼락' [사장님 고충백서] | https://n.news.naver.com/article/015/0005356633?ntype=RANKING
-한국경제 5위 | 1만원이면 천국이 따로 없다…2030 홀린 뜻밖의 명소 [권 기자의 내돈내산] | https://n.news.naver.com/article/015/0005356634?ntype=RANKING
-JTBC 1위 | "이 글도 조롱당하겠지"…리트 만점자 '5줄 유서' 공개 | https://n.news.naver.com/article/437/0000521829?ntype=RANKING
-JTBC 2위 | [단독] 세무사 시험 뚫린 후 첫 국가자격시험…또 '6건 무효' 적발 | https://n.news.naver.com/article/437/0000521827?ntype=RANKING
-JTBC 3위 | 50대 성범죄자, 충북 진천에서 전자발찌 끊고 도주…당국 공개수배 | https://n.news.naver.com/article/437/0000521849?ntype=RANKING
-JTBC 4위 | 알몸으로 복도에 줄줄이…정신요양시설 보호자는 몰랐다 | https://n.news.naver.com/article/437/0000521780?ntype=RANKING
-JTBC 5위 | "젠슨 황 사임 이유, 혼외관계 아니라 거짓말 때문"…폭언 폭로도 잇따라 | https://n.news.naver.com/article/437/0000521817?ntype=RANKING
-KBS 1위 | AI 커닝 논란 후 첫 국가자격시험서 부정행위 6건 적발 | https://n.news.naver.com/article/056/0012298710?ntype=RANKING
-KBS 2위 | “지구에 일시적으로 ‘두번째 달’ 생겨”…지름2ｍ 소행성 12월까지 동행 | https://n.news.naver.com/article/056/0012298740?ntype=RANKING
-KBS 3위 | “물속 운동, 혈압약 1알 효과”…고혈압에 좋은 운동은? [의학:너머] | https://n.news.naver.com/article/056/0012298655?ntype=RANKING
-KBS 4위 | 국경 넘어온 독성 하수…공포 휩싸인 샌디에이고 | https://n.news.naver.com/article/056/0012298664?ntype=RANKING
-KBS 5위 | “앞치마 나눠주고, 줄 서서 들어가고”…AI 부정행위 파문 속 진행된 논술 시험 | https://n.news.naver.com/article/056/0012298731?ntype=RANKING
-한겨레 1위 | ‘영화 촬영 중 집단 성폭행’…나쁜 배우 드파르디외 또 | https://n.news.naver.com/article/028/0002833313?ntype=RANKING
-한겨레 2위 | 수능 창시자의 탄식…“이런 시험이면 없애는 게 낫다” | https://n.news.naver.com/article/028/0002833317?ntype=RANKING
-한겨레 3위 | 가족과 연 끊은지 10년…삶이 무서워 ‘결혼’에 매달릴 때 [.txt] | https://n.news.naver.com/article/028/0002833318?ntype=RANKING
-한겨레 4위 | 종묘 앞 ‘145m 아파트’ 못 짓는다...유산위, 유적 보존 방안 부결 | https://n.news.naver.com/article/028/0002833298?ntype=RANKING
-한겨레 5위 | 국힘 “조희대 탄핵하면 이재명 정권 붕괴” 대구서 장외집회 | https://n.news.naver.com/article/028/0002833311?ntype=RANKING
-한국경제TV 1위 | "대본에 없어" 촬영 중 여배우 집단 성폭행 의혹…'발칵' [글로벌 pick] | https://n.news.naver.com/article/215/0001273468?ntype=RANKING
-한국경제TV 2위 | '검은 월요일' 될라 개미들 벌벌 떠는데…골드만의 '서늘한 전망' | https://n.news.naver.com/article/215/0001273489?ntype=RANKING
-한국경제TV 3위 | "낯선 남자 따라갔다가…" 모텔에 홀로 남겨진 아이의 사연 | https://n.news.naver.com/article/215/0001273497?ntype=RANKING
-한국경제TV 4위 | "또 '검은 월요일' 오나"…美 증시 폭락에 코스피 '초긴장' | https://n.news.naver.com/article/215/0001273492?ntype=RANKING
-한국경제TV 5위 | "삼전닉스, 반전은 온다"...무디스 전망에 개미들 '반색' | https://n.news.naver.com/article/215/0001273483?ntype=RANKING
-파이낸셜뉴스 1위 | "이런 낭만아재들 너무 좋아"…아기 머리 위로 은행잎 뿌려준 '아저씨들' [따뜻했슈] [영상] | https://n.news.naver.com/article/014/0005607686?ntype=RANKING
-파이낸셜뉴스 2위 | "1억 넣었는데 1800만 원 된다고?"… '7만전자·20만닉스' 섬뜩한 폭락 경고의 실체 | https://n.news.naver.com/article/014/0005607651?ntype=RANKING
-파이낸셜뉴스 3위 | "AI가 큰 병 아니래서 버텼는데"…병원 갔더니 중증 진단 '날벼락' [소비의 정석] | https://n.news.naver.com/article/014/0005607697?ntype=RANKING
-파이낸셜뉴스 4위 | "17kg 뺐지만 면역력 문제 생겨" 김민하, 다이어트 후 건강 이상 고백 [헬스톡] | https://n.news.naver.com/article/014/0005607685?ntype=RANKING
-파이낸셜뉴스 5위 | 세무사 수석 합격자는 왜 변호사의 유튜브에서 사과했을까 [원희영 변호사의 사건이 된 일상] | https://n.news.naver.com/article/014/0005607698?ntype=RANKING
-강원일보 1위 | 세무사 시험 AI 부정행위 파장 속 경비지도사 시험서 6명 적발 | https://n.news.naver.com/article/087/0001232332?ntype=RANKING
-강원일보 2위 | ‘LEET 만점자’ 故 이진우, 사망 당일 새벽 자취방서 짐 정리…신변 정리 정황 | https://n.news.naver.com/article/087/0001232313?ntype=RANKING
-강원일보 3위 | 이재명 대통령 “수능 부정행위 포상금, 1건당 최소 1억원…가담자 수만큼 가산” | https://n.news.naver.com/article/087/0001232330?ntype=RANKING
-강원일보 4위 | 서울 홍대입구역 인근서 버스 인도 돌진…3중 추돌로 6명 부상 | https://n.news.naver.com/article/087/0001232331?ntype=RANKING
-강원일보 5위 | '수학 문제 푸는 과정 없이 답 적고 안경 만지작' 천안 수능 부정행위 수험생 스마트안경 활용 시인 | https://n.news.naver.com/article/087/0001232265?ntype=RANKING
-경향신문 1위 | “영화 촬영 중 여배우 집단 성폭행”···유명 배우 드파르디외·소설가 우엘벡 고소당해 | https://n.news.naver.com/article/032/0003484113?ntype=RANKING
-경향신문 2위 | 전투기 조종사도 주머니에 쏙···이란 전쟁 미군 사로잡은 ‘이 간식’ | https://n.news.naver.com/article/032/0003484127?ntype=RANKING
-경향신문 3위 | “불륜 아니다” “너의 뇌에 오줌 누겠다”···젠슨 황 퇴출 부른 건 거짓말과 상습 폭언 | https://n.news.naver.com/article/032/0003484123?ntype=RANKING
-경향신문 4위 | 이거 하려고 연차까지 낸다는데···13년만에 돌아온 ‘GTA 6’, 출시 첫날 5조원어치 팔렸다 | https://n.news.naver.com/article/032/0003484124?ntype=RANKING
-경향신문 5위 | 일본 국민 61% “한국에 친근감”…86% “중국에 친근감 없어” | https://n.news.naver.com/article/032/0003484118?ntype=RANKING
-디지털타임스 1위 | [속보] 국가자격 시험장서 울린 ‘따르릉~’ 벨소리…부정행위 6건 걸렸다 | https://n.news.naver.com/article/029/0003060345?ntype=RANKING
-디지털타임스 2위 | ‘조희대 탄핵 압박’ 추미애 “여당 정치적 유불리 계산할 때 아냐” | https://n.news.naver.com/article/029/0003060360?ntype=RANKING
-디지털타임스 3위 | ‘AI 부정 의혹’ 아르헨, 전공의 재시험…117명 기존 점수 못미쳐 | https://n.news.naver.com/article/029/0003060357?ntype=RANKING
-디지털타임스 4위 | [속보] 일본인 “한국인 좋다” 역대 최고… 중국은 93%가 ‘안 좋다’ 응답 | https://n.news.naver.com/article/029/0003060318?ntype=RANKING
-디지털타임스 5위 | 서학개미 어떡하나… 엔비디아 8천억 폭풍매수, 6조 평가손 | https://n.news.naver.com/article/029/0003060308?ntype=RANKING
-시사저널 1위 | '불륜 스캔들' 젠슨 황 복귀 의사 공식화…엔비디아 이사회는 '불가' | https://n.news.naver.com/article/586/0000142787?ntype=RANKING
-시사저널 2위 | 리트 만점자, 사망 이틀 전 집주인에게 "탈출 도와달라" 요청 | https://n.news.naver.com/article/586/0000142785?ntype=RANKING
-시사저널 3위 | 70세 이상 4명 중 1명 'COPD'…심혈관질환 위험까지 높인다 | https://n.news.naver.com/article/586/0000142790?ntype=RANKING
-시사저널 4위 | 호감 38%·비호감 52%…與 향한 민심 갈수록 싸늘 [민심 전광판] | https://n.news.naver.com/article/586/0000142788?ntype=RANKING
-시사저널 5위 | 세대 포위에 지역 고립까지…민주당, '호남 자민련'&#160;전락하나 [배종찬의 민심풍향계] | https://n.news.naver.com/article/586/0000142789?ntype=RANKING
-이데일리 1위 | 젠슨 황 "네 뇌에 오줌 누겠다...널 낙태했어야" 일상적 폭언 | https://n.news.naver.com/article/018/0006413537?ntype=RANKING
-이데일리 2위 | 전자발찌 훼손·도주 50대 성범죄자…"키 163㎝·노란티셔츠" 공개수배 | https://n.news.naver.com/article/018/0006413547?ntype=RANKING
-이데일리 3위 | 앤스로픽 상장이 '방아쇠'…뉴욕증시 폭락 부른 5가지 이유 | https://n.news.naver.com/article/018/0006413565?ntype=RANKING
-이데일리 4위 | '부자아빠, 가난한아빠' 저자 "비트코인 급락, 추가 매수할 기회" | https://n.news.naver.com/article/018/0006413419?ntype=RANKING
-이데일리 5위 | 부부싸움 뒤 현관 비번 바꾼 남편…누가 유책배우자?[양친소] | https://n.news.naver.com/article/018/0006413556?ntype=RANKING
-연합뉴스 1위 | [소셜＋] "여전히 4개에 1천원?"…SNS 타고 입소문 난 '초저가' 붕어빵집 | https://n.news.naver.com/article/001/0016455994?ntype=RANKING
-연합뉴스 2위 | AI 커닝에 수능 개편론 급부상…서·논술형·자격고사 거론 | https://n.news.naver.com/article/001/0016456002?ntype=RANKING
-연합뉴스 3위 | '5천피' 무너지고 美증시 급락…'AI 투매' 추가 충격오나 | https://n.news.naver.com/article/001/0016455999?ntype=RANKING
-연합뉴스 4위 | 시험지만 남아있다면…과거 수능 부정행위 의심자도 추적 조사 | https://n.news.naver.com/article/001/0016456003?ntype=RANKING
-연합뉴스 5위 | '서비스용 로또 안 준다고 식당 칼부림'…무기징역→45년 감형 | https://n.news.naver.com/article/001/0016456047?ntype=RANKING
-머니투데이 1위 | "10억 싸게 팔게요" 강남 집주인 발동동...갑자기 무슨 일[숨부파] | https://n.news.naver.com/article/008/0005444463?ntype=RANKING
-머니투데이 2위 | 5만원 받고 "촉감 이상해"…딱 걸린 남성이 찢어버린 돈 정체 | https://n.news.naver.com/article/008/0005444476?ntype=RANKING
-머니투데이 3위 | "내가 여자 전문가"...만취 여대생 성폭행하려다 실패→살해[뉴스속오늘] | https://n.news.naver.com/article/008/0005444474?ntype=RANKING
-머니투데이 4위 | "남는 장사 아냐?" 치킨 3만원, 사장님이 왜 울어?...배달 치킨값의 비밀 | https://n.news.naver.com/article/008/0005444482?ntype=RANKING
-머니투데이 5위 | 배달앱 없이 장사 안 되는데..."30만원 팔면 17만원 남는다" 한숨 | https://n.news.naver.com/article/008/0005444490?ntype=RANKING
-뉴시스 1위 | [속보]캐나다, 나토혁신펀드(NIF) 가입, 북미 최초로 나토 25번째 회원국 돼 | https://n.news.naver.com/article/003/0014337670?ntype=RANKING
-뉴시스 2위 | "1만피는 어디가고"…증권가, 코스피 '4500선 바닥론' 확산 | https://n.news.naver.com/article/003/0014337603?ntype=RANKING
-뉴시스 3위 | 흔들리는 수능에 커지는 '폐지' 목소리[평가 시험대②] | https://n.news.naver.com/article/003/0014337619?ntype=RANKING
-뉴시스 4위 | '미련한 만점' 아니었으면 몰랐다…적발 사각지대[AI, 파괴된 공정②] | https://n.news.naver.com/article/003/0014337636?ntype=RANKING
-뉴시스 5위 | [단독]경찰이 3개월 캔 사건 넘기라고 한 중수청…왜 이런 일이? | https://n.news.naver.com/article/003/0014337660?ntype=RANKING
-전자신문 1위 | 9000→4900 추락, 다음은…코스피, 바닥은 있나? 반전은 있나? | https://n.news.naver.com/article/030/0003488109?ntype=RANKING
-전자신문 2위 | 아마존 고립 부족, 50년 만에 세상 밖에 손 내밀었다…“식량 좀 줘” 이유가? | https://n.news.naver.com/article/030/0003488141?ntype=RANKING
-전자신문 3위 | '2원 잠옷' 판매 내건 수상한 쇼핑몰…200만 건 주문 폭주했는데 상품은 사라졌다 | https://n.news.naver.com/article/030/0003488132?ntype=RANKING
-전자신문 4위 | 고속도로 위에 '퓨마, 코요테 전용 다리'…세계 최대 '야생동물 서식지' 조성, 왜? | https://n.news.naver.com/article/030/0003488153?ntype=RANKING
-전자신문 5위 | AI 커닝 안걸렸다고 끝?…“수능장 와이파이·블루투스는 당신이 한 일을 기억하고 있다” | https://n.news.naver.com/article/030/0003488131?ntype=RANKING
-아시아경제 1위 | 강남도 아닌데 수십억 '턱턱'…연예인도 찜한 이 동네, 5년 만에 '들썩' | https://n.news.naver.com/article/277/0005845881?ntype=RANKING
-아시아경제 2위 | 리트 만점자 유서 공개 "죽어도 가려 했지만…이 글도 조롱당하겠지" | https://n.news.naver.com/article/277/0005845939?ntype=RANKING
-아시아경제 3위 | 삼전닉스 떠나고 삼기엘렉 온다?…'왕좌 교체' 시나리오 봤더니[주末머니] | https://n.news.naver.com/article/277/0005845932?ntype=RANKING
-아시아경제 4위 | "이러다 진짜 코스피 1만 찍나"…파격 전망 겹치자 높아지는 기대감[주末머니] | https://n.news.naver.com/article/277/0005845894?ntype=RANKING
-아시아경제 5위 | "한국이 그렇게 좋아요?" 일본인들 호감도 역대급 상승…얼마나 달라졌길래 | https://n.news.naver.com/article/277/0005845889?ntype=RANKING
-더팩트 1위 | 로또 1251회 당첨번호 조회···'1등 몽땅 자동 14명' | https://n.news.naver.com/article/629/0000554277?ntype=RANKING
-더팩트 2위 | 로또 1251회 당첨번호 20억, '딱 하나 땜에 200억 놓쳤나' | https://n.news.naver.com/article/629/0000554292?ntype=RANKING
-더팩트 3위 | 리트 만점자 사망에 AI 커닝 의혹 '미궁'…수사·탈락자 구제 '난감' | https://n.news.naver.com/article/629/0000554281?ntype=RANKING
-더팩트 4위 | 사대문 안 첫 에피트…서대문역 초역세권 '경희궁 에피트' 가보니[TF현장] | https://n.news.naver.com/article/629/0000554287?ntype=RANKING
-더팩트 5위 | [오늘의 날씨] 첫눈 내린다는 '소설' 강추위…서울 영하 4도 | https://n.news.naver.com/article/629/0000554284?ntype=RANKING
-MBN 1위 | 전자발찌 끊고 도주한 성범죄자 공개수배…진천 야산서 마지막 행적 | https://n.news.naver.com/article/057/0001979286?ntype=RANKING
-MBN 2위 | [뉴스추적] "수능장에서 울린 재난 문자 소리…부정행위 못 잡아" | https://n.news.naver.com/article/057/0001979273?ntype=RANKING
-MBN 3위 | "소프트뱅크 손정의, 1조 달러에 SK하이닉스 인수 검토했다" | https://n.news.naver.com/article/057/0001979246?ntype=RANKING
-MBN 4위 | "이 문제는 풀지 말라"…수능 시험지에 '커닝 방패' 심는다 | https://n.news.naver.com/article/057/0001979272?ntype=RANKING
-MBN 5위 | 이란 "미 F-16 전투기 공격해 비상착륙시켜"…미군 "거짓 주장" | https://n.news.naver.com/article/057/0001979287?ntype=RANKING
-서울경제 1위 | 한 돈 100만원 넘게 주고 샀는데 “나 어떡해”…올해 무려 37% 폭락한 금값, 대체 왜? | https://n.news.naver.com/article/011/0004684621?ntype=RANKING
-서울경제 2위 | 김장 배추에 ‘검은 점’ 다닥다닥…“이거 곰팡이 아니야?” 그냥 먹어도 될까 | https://n.news.naver.com/article/011/0004684706?ntype=RANKING
-서울경제 3위 | ‘추가 폭락’ 美 증시에 월요일이 두려운 개미들…코스피 바닥은 어디 [선데이 머니카페] | https://n.news.naver.com/article/011/0004684705?ntype=RANKING
-서울경제 4위 | “주문할 때마다 6700원 더 내라고?”…배송비 인상 검토하자 난리 난 美 | https://n.news.naver.com/article/011/0004684707?ntype=RANKING
-서울경제 5위 | “이렇게 재우면 잘 자요” 친절했던 원장의 두 얼굴…9개월 아기는 끝내 숨졌다 [오늘의 그날] | https://n.news.naver.com/article/011/0004684696?ntype=RANKING
-헤럴드경제 1위 | ‘17㎏ 감량’ 김민하, 31세인데…“면역력에도 문제가 많았다”…다이어트 중 놓치기 쉬운 ‘이것’ [그들의 건강美학] | https://n.news.naver.com/article/016/0002726553?ntype=RANKING
-헤럴드경제 2위 | “2억 낮출테니 팔아주세요” 매수 관망에 흑석 대장주도 호가 하락 [부동산360] | https://n.news.naver.com/article/016/0002726614?ntype=RANKING
-헤럴드경제 3위 | 천하의 삼성도 힘 못쓴다더니…“초특가 세일, 60만→40만원” 파격 결단, 무슨 일 | https://n.news.naver.com/article/016/0002726590?ntype=RANKING
-헤럴드경제 4위 | “삼성·하이닉스 내년에도 웃는다”…무디스가 전망한 AI 반도체 호황 | https://n.news.naver.com/article/016/0002726606?ntype=RANKING
-헤럴드경제 5위 | LEET 만점자, 3년전 수능 고득점…수감 중 ‘열공’했나 | https://n.news.naver.com/article/016/0002726526?ntype=RANKING
-kbc광주방송 1위 | 'AI 부정행위' 논란 뒤 첫 국가자격시험서 6건 또 적발 | https://n.news.naver.com/article/660/0000121912?ntype=RANKING
-kbc광주방송 2위 | 지구에 일시적 '두 번째 달' 생겼다…지름 2ｍ 소행성, 12월 초까지 지구 궤도 체류 | https://n.news.naver.com/article/660/0000121916?ntype=RANKING
-kbc광주방송 3위 | 지인 협박해 '동생 공무원연금 통장' 빼앗아 1.6억 인출…70대 실형 | https://n.news.naver.com/article/660/0000121915?ntype=RANKING
-kbc광주방송 4위 | 전자발찌 훼손하고 도주한 50대 성범죄자 공개수배 | https://n.news.naver.com/article/660/0000121911?ntype=RANKING
-kbc광주방송 5위 | 박지원 "한동훈, 이재명 시한부 대통령?...헛소리, 입만 벌리면 거짓말, 수사받고 감옥 가자"[여의도초대석] | https://n.news.naver.com/article/660/0000121880?ntype=RANKING
-세계일보 1위 | 112만원에 산 금, 지금 팔면 58만원…본전 찾으려면 얼마나 올라야 할까 [숫자 뒤의 진실] | https://n.news.naver.com/article/022/0004177027?ntype=RANKING
-세계일보 2위 | 국밥 말아먹으면 췌장암 걸린다고?…‘위험 2배’ 높이는 진짜 요인은 따로 있었다 | https://n.news.naver.com/article/022/0004177026?ntype=RANKING
-세계일보 3위 | 골프공 하나 주웠을 뿐인데 월 500만원?…잠수부·AI까지 뛰어든 ‘이 시장’ [권준영의 머니볼] | https://n.news.naver.com/article/022/0004177028?ntype=RANKING
-세계일보 4위 | 아빠는 떠났고, 잠실마저 사라진다…35세 두산 팬이 끝내 눈물 흘린 이유 [29면] | https://n.news.naver.com/article/022/0004177031?ntype=RANKING
-세계일보 5위 | 살 빼려 시작한 아침 공복 운동…오히려 혈당 오를 수도 | https://n.news.naver.com/article/022/0004177055?ntype=RANKING
-동아일보 1위 | “장판 상했으니 83만원 뺄게요”…전세금서 마음대로 공제해도 될까 [집과법] | https://n.news.naver.com/article/020/0003764150?ntype=RANKING
-동아일보 2위 | ‘한강의 기적’ 닮은 ‘폴란드의 기적’…빈곤 유럽서 홀로 성장[딥다이브] | https://n.news.naver.com/article/020/0003764123?ntype=RANKING
-동아일보 3위 | “낙태했어야” “머리 열어 소변” “금붕어”…안하무인 젠슨황 父女 | https://n.news.naver.com/article/020/0003764146?ntype=RANKING
-동아일보 4위 | 경찰이 ‘무혐의’ 끝낸 딸의 죽음…증거 쫓은 엄마가 뒤집었다[더뎁스] | https://n.news.naver.com/article/020/0003764135?ntype=RANKING
-동아일보 5위 | 김주애는 왜 고글도 없이 스키를 탔나…사진으로 만들어가는 권력[청계천 옆 사진관] | https://n.news.naver.com/article/020/0003764131?ntype=RANKING
-중앙일보 1위 | 수능 6수 끝 세상 떠난 의대 지망생…“부정행위가 꿈 짓밟아” | https://n.news.naver.com/article/025/0003566866?ntype=RANKING
-중앙일보 2위 | “아빠가 폭행” 112 신고한 아들, 1년뒤 전화 걸자 돌아온 건… | https://n.news.naver.com/article/025/0003566890?ntype=RANKING
-중앙일보 3위 | [단독] 리트 만점자, 유서에 “죽어도 가려 했지만…조롱 당하겠지” | https://n.news.naver.com/article/025/0003566859?ntype=RANKING
-중앙일보 4위 | 롱패딩 대신 이것 사라?…‘초강력 엘니뇨’가 만든 겨울 유행템 | https://n.news.naver.com/article/025/0003566812?ntype=RANKING
-중앙일보 5위 | “호황 끝” 공포에 주가 반토막…삼전닉스 3대 불안의 진실 | https://n.news.naver.com/article/025/0003566893?ntype=RANKING
-코리아헤럴드 1위 | Lee stresses need for Seoul to take lead on peninsular affairs after Trump-Xi-Putin meeting | https://n.news.naver.com/article/044/0000292475?ntype=RANKING
-코리아헤럴드 2위 | Blackpink's Jennie joins star-studded GTA 6 soundtrack as only Korean artist | https://n.news.naver.com/article/044/0000292459?ntype=RANKING
-코리아헤럴드 3위 | Bill to support democracy activists passes after filibuster broken | https://n.news.naver.com/article/044/0000292470?ntype=RANKING
-코리아헤럴드 4위 | Sit-in over last camptown ‘monkey house’ ends | https://n.news.naver.com/article/044/0000292471?ntype=RANKING
-코리아헤럴드 5위 | 111 test takers caught with smart devices during Suneung | https://n.news.naver.com/article/044/0000292465?ntype=RANKING
-MBC 1위 | 그렇게 경고했는데도‥경비지도사 시험 6명 적발 | https://n.news.naver.com/article/214/0001537179?ntype=RANKING
-MBC 2위 | 전자발찌 끊고 도주한 '56세 남성' 수배‥'왜소한 체격·노란 티셔츠' | https://n.news.naver.com/article/214/0001537144?ntype=RANKING
-MBC 3위 | 이번엔 대구 집결한 국힘 "몽땅 교도소에"‥민주 "그럴 자격 있나" | https://n.news.naver.com/article/214/0001537155?ntype=RANKING
-MBC 4위 | 트럼프, SNS에 얄타회담·미중러 정상회담 사진 나란히 게시 | https://n.news.naver.com/article/214/0001537182?ntype=RANKING
-MBC 5위 | 앞치마에 금속탐지기‥초긴장 속 논술시험 | https://n.news.naver.com/article/214/0001537178?ntype=RANKING
-한국일보 1위 | "달력 대신 '하루 한 장' 뜯어요"… RM·장원영도&#160;빠진 '일력'의 매력 | https://n.news.naver.com/article/469/0000966963?ntype=RANKING
-한국일보 2위 | 충북 진천서 전자발찌 훼손하고 도망간 50대 성범죄자 공개 수배 | https://n.news.naver.com/article/469/0000966956?ntype=RANKING
-한국일보 3위 | 긴 생머리 파격 변신한 지드래곤… 빅뱅, MAMA서 신곡 '기립' 무대 최초 공개 | https://n.news.naver.com/article/469/0000966951?ntype=RANKING
-한국일보 4위 | 집주인에 "탈출 도와달라"... 리트 만점자, 사망 당일&#160;새벽 자취방 들러 | https://n.news.naver.com/article/469/0000966911?ntype=RANKING
-한국일보 5위 | 평창서 공기총 사격 연습 중 행인 맞아 숨져... 중과실치사 입건 | https://n.news.naver.com/article/469/0000966948?ntype=RANKING
-노컷뉴스 1위 | "월급 34만원인데 숙식비로 65만원 내라?"…법원도 혀 내둘렀다 | https://n.news.naver.com/article/079/0004212378?ntype=RANKING
-노컷뉴스 2위 | "나쁜 놈을 왜 도와요?"…경찰·소년범이었던 두 사람의 답 | https://n.news.naver.com/article/079/0004212382?ntype=RANKING
-노컷뉴스 3위 | [단독] 숭실대, 교수 비위 고소 후 경찰 조사 불응…결국 각하 | https://n.news.naver.com/article/079/0004212384?ntype=RANKING
-노컷뉴스 4위 | 카뱅이 먼저 탄 애플페이…토뱅은 '연내', 카드사들 '아직' | https://n.news.naver.com/article/079/0004212376?ntype=RANKING
-노컷뉴스 5위 | 반도체는 초호황, 서민 지갑은 제자리…낙수효과 어디로 | https://n.news.naver.com/article/079/0004212377?ntype=RANKING
-부산일보 1위 | [속보] 50대 성범죄자 공개수배…충북 진천서 전자발찌 끊고 도주 | https://n.news.naver.com/article/082/0001408288?ntype=RANKING
-부산일보 2위 | 폭락한 미 증시에 월요일이 두려운 개미들…4900 무너졌는데 4300까지? | https://n.news.naver.com/article/082/0001408294?ntype=RANKING
-부산일보 3위 | 겨우 1000원 로또 복권 안 준다고 식당주인 살해…무기징역→45년 감형 | https://n.news.naver.com/article/082/0001408292?ntype=RANKING
-부산일보 4위 | 출소 반년 만에 국어 7→2등급…LEET 만점자 3년 전 수능 미스터리 | https://n.news.naver.com/article/082/0001408290?ntype=RANKING
-부산일보 5위 | 아빠 찔러 집유 중인 20대…상속 문제로 엄마까지 흉기 위협 | https://n.news.naver.com/article/082/0001408275?ntype=RANKING
-아이뉴스24 1위 | 8억 목동 빌라 찾는 젊은 부부들…새 아파트 노린 '몸테크'[르포] | https://n.news.naver.com/article/031/0001077214?ntype=RANKING
-아이뉴스24 2위 | [내일날씨] 일요일 아침도 추워요&#8943;최저 '-9도' | https://n.news.naver.com/article/031/0001077210?ntype=RANKING
-아이뉴스24 3위 | 수험생연대 "커닝 잡는다더니 시험 중 신발 벗겨" 교육장관 사퇴 요구 | https://n.news.naver.com/article/031/0001077185?ntype=RANKING
-아이뉴스24 4위 | 쫀득할 줄 알았는데 '바삭'…600만개 팔린 츄러스의 반전[식후감] | https://n.news.naver.com/article/031/0001077218?ntype=RANKING
-아이뉴스24 5위 | '여자친구 출신' 은하·신비·엄지, 전 소속사 상대 소송 '승소' | https://n.news.naver.com/article/031/0001077184?ntype=RANKING
-채널A 1위 | 혀 내밀고 홀로 부채질…日서 “부끄럽다” | https://n.news.naver.com/article/449/0000368280?ntype=RANKING
-채널A 2위 | 최교진 “사퇴하라면 해야죠”…야 “무능함의 극치” | https://n.news.naver.com/article/449/0000368271?ntype=RANKING
-채널A 3위 | 대입 논술 시험 중 “진동 느꼈다” 부정행위 의심 신고 | https://n.news.naver.com/article/449/0000368267?ntype=RANKING
-채널A 4위 | 러시아, 젤렌스키 고향 미사일 공격…7세 어린이 등 2명 사망 | https://n.news.naver.com/article/449/0000368288?ntype=RANKING
-채널A 5위 | 이 대통령 “5500억 공익환수가 배임죄?” | https://n.news.naver.com/article/449/0000368275?ntype=RANKING
-TV조선 1위 | "통일 후 北에 대통령직 보장"…비건, 파격 통일 구상 | https://n.news.naver.com/article/448/0000652551?ntype=RANKING
-TV조선 2위 | [뉴스더] 임기 6개월 남기고 탄핵…與 진짜 노림수는? | https://n.news.naver.com/article/448/0000652550?ntype=RANKING
-TV조선 3위 | '리트 만점자' 발인…사망 이틀 전 "탈출 도와달라" | https://n.news.naver.com/article/448/0000652545?ntype=RANKING
-TV조선 4위 | 조작기소 특검 시행 이튿날 '대장동' 꺼내든 李…업자 인용해 "공익환수" | https://n.news.naver.com/article/448/0000652549?ntype=RANKING
-TV조선 5위 | 李 "수능 부정 신고, 1건당 최소 1억…자수 후 신고하면 감경과 포상" | https://n.news.naver.com/article/448/0000652543?ntype=RANKING
-강원도민일보 1위 | 한 판매점서 로또 2등 10게임 동시당첨…강릉서 1등 나와 | https://n.news.naver.com/article/654/0000212548?ntype=RANKING
-강원도민일보 2위 | 홍대입구역서 버스 2대·승용차 연쇄 추돌…버스 인도 돌진에 6명 부상 | https://n.news.naver.com/article/654/0000212547?ntype=RANKING
-강원도민일보 3위 | [주말픽]인민군 모자 어디 갔나 봤더니..."송지호 비치코밍센터에 있네" | https://n.news.naver.com/article/654/0000212516?ntype=RANKING
-강원도민일보 4위 | 80∼90도 온천탕에 빠진 60대 화상…헬기 이송 | https://n.news.naver.com/article/654/0000212538?ntype=RANKING
-강원도민일보 5위 | 리트 만점자 사망 당일 새벽 짐 정리…이틀 전엔 집주인에 "탈출 도와달라" | https://n.news.naver.com/article/654/0000212517?ntype=RANKING
-연합뉴스TV 1위 | 머리 한가운데 '뿔 하나 불쑥'…에스토니아서 발견된 '유니콘'? | https://n.news.naver.com/article/422/0000928576?ntype=RANKING
-연합뉴스TV 2위 | 경찰서 뒷마당서 도넛 훔친 다람쥐…미 경찰 "수배 중" | https://n.news.naver.com/article/422/0000928577?ntype=RANKING
-연합뉴스TV 3위 | 한동훈 "與 12·3 曺 탄핵은 내란 자백…모두 감옥 갈 것" | https://n.news.naver.com/article/422/0000928568?ntype=RANKING
-연합뉴스TV 4위 | 시험 도중 벨소리…국가자격시험서 부정행위 6건 적발 | https://n.news.naver.com/article/422/0000928570?ntype=RANKING
-연합뉴스TV 5위 | 백혈병 투병 소녀의 마지막 소원…"친구들과 수업 듣고 싶어요" | https://n.news.naver.com/article/422/0000928578?ntype=RANKING
-매일신문 1위 | "사랑아, 미안하지만 용돈은 없다"…추성훈, 22년 격투 인생 마침표 | https://n.news.naver.com/article/088/0001041550?ntype=RANKING
-매일신문 2위 | "대통령도 음주운전 전력 있는데"…고경표 팬 호소문에 비서실장 반응은 [여의도.gif] | https://n.news.naver.com/article/088/0001041544?ntype=RANKING
-매일신문 3위 | 증시 폭락에 공매도 빗장 건 대만…韓 개미들 "우리도 막아달라" 청원 1만명 돌파 | https://n.news.naver.com/article/088/0001041547?ntype=RANKING
-매일신문 4위 | "보수 대통령 지지하다 장애인 되어버린 엄마"…정유라가 전한 최순실 근황 | https://n.news.naver.com/article/088/0001041551?ntype=RANKING
-매일신문 5위 | 로또 2등 한 판매점서 10게임 당첨…한 사람이면 5억원, 1등 못지않은 행운? | https://n.news.naver.com/article/088/0001041543?ntype=RANKING
-조세일보 1위 | 삼성전자, 주당 4601원씩 '30조 배당' 27일 지급…증시 반등 이끌까 | https://n.news.naver.com/article/123/0002394551?ntype=RANKING
-조세일보 2위 | 1251회 로또 1등 14명…각 20.6억원씩·서울-경기 각 3곳 최다 당첨 | https://n.news.naver.com/article/123/0002394547?ntype=RANKING
-조세일보 3위 | 대만 증시 급락에 당국 초강수…23일부터 전일 종가 밑 공매도 금지 | https://n.news.naver.com/article/123/0002394548?ntype=RANKING
-조세일보 4위 | ‘트럼프 눈치 접었나'…EU, 美 빅테크에 3% 디지털세 추진 | https://n.news.naver.com/article/123/0002394550?ntype=RANKING
-조세일보 5위 | "바닥인 줄 알았는데 또 폭락" 추락하는 국내증시에 개미들 비명 | https://n.news.naver.com/article/123/0002394531?ntype=RANKING
-블로터 1위 | 삼성전자·SK하이닉스, 안전·환경경영 강화…대규모 증설 속 고도화 집중 | https://n.news.naver.com/article/293/0000093621?ntype=RANKING
-블로터 2위 | 워시, 포워드 가이던스 중단했지만…연준 위원들 잇달아 공개발언 | https://n.news.naver.com/article/293/0000093626?ntype=RANKING
-블로터 3위 | [단독] 테슬라코리아, FSD 특례 서류 '15일 내 보완' 요청 수용 | https://n.news.naver.com/article/293/0000093610?ntype=RANKING
-블로터 4위 | [FSD 온로드] '14.2 라이트' 배포 확대...테슬라 안내 보니 | https://n.news.naver.com/article/293/0000093619?ntype=RANKING
-블로터 5위 | 로그인 없이 서버 뚫리는 자바 취약점…SK쉴더스, CPU 점검 강조 | https://n.news.naver.com/article/293/0000093623?ntype=RANKING
-경기일보 1위 | ‘서비스 로또’ 못 받자 식당 주인 살해한 60대, 무기징역→징역 45년 | https://n.news.naver.com/article/666/0000133157?ntype=RANKING
-경기일보 2위 | “리트냥이한테 10년 전 보험사기 당할 뻔”…故 이진우 관련 경험담 등장 | https://n.news.naver.com/article/666/0000133153?ntype=RANKING
-경기일보 3위 | “로또 1등 14명 모두 자동”…20억 잭팟 터진 행운 장소는 어디? | https://n.news.naver.com/article/666/0000133145?ntype=RANKING
-경기일보 4위 | 수도권 재건축에 억대 재초환 부담금...1기 신도시도 영향권 | https://n.news.naver.com/article/666/0000133155?ntype=RANKING
-경기일보 5위 | “기침·재채기에도 척추뼈 주저앉아”…갑작스러운 요통에 신경 써야 [건강칼럼] | https://n.news.naver.com/article/666/0000133152?ntype=RANKING
-뉴스1 1위 | 삼전 100주면 '39만원' 27일 30조 배당…주가 반토막에 '저가매수세' 기대 | https://n.news.naver.com/article/421/0009302964?ntype=RANKING
-뉴스1 2위 | "반으로 잘라, 내 책임이여"…수능일 지우개 부족하자 기지 발휘한 교장 | https://n.news.naver.com/article/421/0009302940?ntype=RANKING
-뉴스1 3위 | "임용고시에도 '교사냥이' 대거 출몰…계산기로 문제 푼 합격자 있다" 논란 | https://n.news.naver.com/article/421/0009302943?ntype=RANKING
-뉴스1 4위 | 로또 2등 10장, 서울 중구 한곳서 쏟아졌다…동일인이면 5억 대박 | https://n.news.naver.com/article/421/0009303025?ntype=RANKING
-뉴스1 5위 | 트럼프 "누구도 이란 핵무기 허용 못하게 영구적 합의할 것" | https://n.news.naver.com/article/421/0009302919?ntype=RANKING
-SBS Biz 1위 | '당첨되면 차익 24억?'…잠실 새 아파트 3가구 '줍줍' | https://n.news.naver.com/article/374/0000545045?ntype=RANKING
-SBS Biz 2위 | 손정의, SK하이닉스 1천346조에 인수 타진?…월가에 자금 문의 | https://n.news.naver.com/article/374/0000545065?ntype=RANKING
-SBS Biz 3위 | AI 잔치에 찬물 끼얹은 뉴욕증시…앤트로픽·엔비디아 동반 급락 | https://n.news.naver.com/article/374/0000545057?ntype=RANKING
-SBS Biz 4위 | 美, 엔비디아 칩 중국 원격접속도 차단…베선트 "수출 통제 강화" | https://n.news.naver.com/article/374/0000545059?ntype=RANKING
-SBS Biz 5위 | 나스닥, 기술주 매도에 5.3% 폭락…다우·S&P500 조정 진입 | https://n.news.naver.com/article/374/0000545035?ntype=RANKING
-문화일보 1위 | “이 남자, 내 남편 아닌 것 같은데”…아내 말에 들통난 ‘거짓 자수’ 이유가... | https://n.news.naver.com/article/021/0002834470?ntype=RANKING
-문화일보 2위 | ‘주가 계속 떨어지는데, 믿어도 될까?’…무디스, 삼전닉스 내년 전망 들어보니 | https://n.news.naver.com/article/021/0002834491?ntype=RANKING
-문화일보 3위 | ‘어떻게 떨어졌길래’…천장 조명 교체하다 3.3m 아래 추락한 55세 노동자 결국 사망 | https://n.news.naver.com/article/021/0002834492?ntype=RANKING
-문화일보 4위 | AI 의혹 리트 만점자 5줄 유서서 “죽어도 가서 죽으려 했는데…” | https://n.news.naver.com/article/021/0002834464?ntype=RANKING
-문화일보 5위 | [속보]초등학교 몰래 들어가 음악실에 불지른 20대…집유기간 또 방화범행 | https://n.news.naver.com/article/021/0002834504?ntype=RANKING
-농민신문 1위 | “나이 들면 무조건 줄어든다?”…‘회춘 물질’로 알려진 ‘이것’의 반전 | https://n.news.naver.com/article/662/0000109011?ntype=RANKING
-농민신문 2위 | 버릴 뻔한 우산에 ‘깁스’ 척척…내 손으로 되살리는 수리의 즐거움 | https://n.news.naver.com/article/662/0000108996?ntype=RANKING
-농민신문 3위 | “순금 올리고 55만원”…수십만원대 ‘호텔 크리스마스 케이크’ 등장 | https://n.news.naver.com/article/662/0000109003?ntype=RANKING
-농민신문 4위 | 배우자 ‘바람’에 만성질환 악화…연구로 보는 ‘외도와 건강’ | https://n.news.naver.com/article/662/0000109000?ntype=RANKING
-농민신문 5위 | “어머님 댁에 신문 한부 보내야겠어요”…기억력 지키는 좋은 습관 | https://n.news.naver.com/article/662/0000109010?ntype=RANKING
-오마이뉴스 1위 | "납품 쌀 돌려달라 태워버리겠다고 하니 등급이 껑충" | https://n.news.naver.com/article/047/0002536732?ntype=RANKING
-오마이뉴스 2위 | 이틀에 1km씩 뚫었다... 경부고속도로 신화에 가려진 77명의 죽음 | https://n.news.naver.com/article/047/0002536744?ntype=RANKING
-오마이뉴스 3위 | "성인인데 왜 통금이 있어?" 마음에 걸린 유학생의 한마디 | https://n.news.naver.com/article/047/0002536704?ntype=RANKING
-오마이뉴스 4위 | 모처럼 생각나 전화했더니 친구는 이미 저세상 사람 | https://n.news.naver.com/article/047/0002536741?ntype=RANKING
-오마이뉴스 5위 | 흰 도복을 입히지 못하는 엄마가 본 '가능한 사랑' | https://n.news.naver.com/article/047/0002536743?ntype=RANKING
-비즈워치 1위 | [공모주달력]연이은 상장철회 속 '몸값 낮춘' 엠비디 코스닥 입성 | https://n.news.naver.com/article/648/0000052852?ntype=RANKING
-비즈워치 2위 | 연말 대목 날아가나…'가맹점 갑질' 걸린 투썸플레이스 | https://n.news.naver.com/article/648/0000052849?ntype=RANKING
-비즈워치 3위 | [보푸라기]차보험료 줄이는 자기부담금…사고 땐 부담 커져 | https://n.news.naver.com/article/648/0000052848?ntype=RANKING
-비즈워치 4위 | [르포]문래동 '국평 18억'…조용한 흥행 가능할까 | https://n.news.naver.com/article/648/0000052842?ntype=RANKING
-비즈워치 5위 | [ETF워치]한한령 해빙 기대에 K팝 날고…반도체 레버리지 추락 | https://n.news.naver.com/article/648/0000052844?ntype=RANKING
-코메디닷컴 1위 | ‘10kg 감량’ 랄랄, ‘이 음식’ 앞에서 다이어트 흔들…열량 폭탄이라고? | https://n.news.naver.com/article/296/0000107636?ntype=RANKING
-코메디닷컴 2위 | “물로 박박 씻어도 소용없어”… 이물질 싹 제거하는 굴 세척법 | https://n.news.naver.com/article/296/0000107623?ntype=RANKING
-코메디닷컴 3위 | “술 안 마셔도 간 망가진다”… 당장 고쳐야 할 ‘뜻밖의 습관’ 3가지 | https://n.news.naver.com/article/296/0000107638?ntype=RANKING
-코메디닷컴 4위 | ‘-11kg’ 홍현희, 맛있는데 체중 감량 돕는 ‘이 음식’… 혈당 안정 탁월? | https://n.news.naver.com/article/296/0000107637?ntype=RANKING
-코메디닷컴 5위 | 이주연, 정력에 좋다는 ‘이 과일’에 빠져 7kg 쪘다&#8943;어떻게 먹었길래? | https://n.news.naver.com/article/296/0000107639?ntype=RANKING
-지디넷코리아 1위 | "손정의, SK하이닉스 1조 달러에 인수 노렸다" | https://n.news.naver.com/article/092/0002446328?ntype=RANKING
-지디넷코리아 2위 | "화웨이 초슬림 스마트워치, 이렇게 생겼다" | https://n.news.naver.com/article/092/0002446300?ntype=RANKING
-지디넷코리아 3위 | "시멘트도 접착제도 필요 없다"…달 토양으로 블록 만들었다 | https://n.news.naver.com/article/092/0002446302?ntype=RANKING
-지디넷코리아 4위 | 테슬라 FSD 특례 심사 제동…첨부자료 5장뿐 | https://n.news.naver.com/article/092/0002446324?ntype=RANKING
-지디넷코리아 5위 | 무신사 코랄핑크 vs 올리브영 마젠타핑크…홍대 뷰티 '핑크' 전쟁 | https://n.news.naver.com/article/092/0002446296?ntype=RANKING
-미디어오늘 1위 | 이 대통령 "국민께 감사, 재난문자 재밌어 하기도" 발언에 국힘 "기가 막혀" | https://n.news.naver.com/article/006/0000138877?ntype=RANKING
-미디어오늘 2위 | 이 대통령 "공익환수가 배임인가" 나경원 "주가 바닥을 치고 있어" | https://n.news.naver.com/article/006/0000138878?ntype=RANKING
-미디어오늘 3위 | '태조왕건'에 궁예가 있다면 '문무'엔 연개소문 있다 | https://n.news.naver.com/article/006/0000138879?ntype=RANKING
-미디어오늘 4위 | 김세의 또 기소… 김수현 이어 은현장·박선원·전광훈 명예훼손·모욕혐의 | https://n.news.naver.com/article/006/0000138875?ntype=RANKING
-미디어오늘 5위 | 이재석 앵커 "김어준 비판은 자연스러운 일… 문제는 양과 질" | https://n.news.naver.com/article/006/0000138872?ntype=RANKING
-프레시안 1위 | [속보] 박지원 "대법원장 탄핵의 역풍은 사법부 파탄 역풍보다는 조족지혈" | https://n.news.naver.com/article/002/0002466989?ntype=RANKING
-프레시안 2위 | '리트 만점' 사망 이진우, 그가 남긴 마지막 메모 "이 글도 조롱하겠지" | https://n.news.naver.com/article/002/0002466982?ntype=RANKING
-프레시안 3위 | '친위 쿠데타 준비'는 무죄이니, 앞으로는 꼭 쿠데타를 성공시켜라?[박세열 칼럼] | https://n.news.naver.com/article/002/0002466934?ntype=RANKING
-프레시안 4위 | 홍준표, 대법원장 탄핵 추진에 "전두환이 김재규 판결 소수의견 대법관들 족치는 것 같아" | https://n.news.naver.com/article/002/0002466957?ntype=RANKING
-프레시안 5위 | "내 집 포크레인으로 부수는 날까지 싸운다" | https://n.news.naver.com/article/002/0002466988?ntype=RANKING
-대전일보 1위 | 시험 중 울린 휴대전화…경비지도사 시험서 6명 부정행위 적발 | https://n.news.naver.com/article/656/0000193145?ntype=RANKING
-대전일보 2위 | 조희대 탄핵 놓고 여야 충돌…민주 "신속 추진" 국힘 "정치적 압박" | https://n.news.naver.com/article/656/0000193144?ntype=RANKING
-대전일보 3위 | 진천서 전자발찌 끊고 도주한 56세 성범죄자 공개수배 | https://n.news.naver.com/article/656/0000193143?ntype=RANKING
-대전일보 4위 | 코레일 "경부선 천안-대전 일반열차, 22일 첫차부터 운행 재개" | https://n.news.naver.com/article/656/0000193139?ntype=RANKING
-대전일보 5위 | 李 대통령 대장동 배임 반박에 장동혁 대표 "억울하면 재판받아라" | https://n.news.naver.com/article/656/0000193128?ntype=RANKING
-데일리안 1위 | 1251회 로또 1등 당첨번호 '14·18·19·29·40·45'번…1등 당첨지역 어디? | https://n.news.naver.com/article/119/0003157940?ntype=RANKING
-데일리안 2위 | "실적은 오르는데 주가는 뚝"…외인 매도세가 관건, 코스피 5000~6100 [주간 증시 전망] | https://n.news.naver.com/article/119/0003157948?ntype=RANKING
-데일리안 3위 | '리트 만점자' 이진우, 5줄 짜리 유서에 남긴 글은 | https://n.news.naver.com/article/119/0003157938?ntype=RANKING
-데일리안 4위 | 결국 폐교…국군사관학교 창설에 육·해·공군 명맥 끊긴다 | https://n.news.naver.com/article/119/0003157958?ntype=RANKING
-데일리안 5위 | 한동훈 "민주당, 12·3에 조희대 탄핵 꼭 하라…모두 감옥갈 것" | https://n.news.naver.com/article/119/0003157931?ntype=RANKING
-헬스조선 1위 | “신장에 부담”… 응급의학과 교수가 경고한 ‘의외의 영양소’ 단백질 | https://n.news.naver.com/article/346/0000119253?ntype=RANKING
-헬스조선 2위 | “간·혈관 망가진다”… 내과 의사가 ‘당장 끊으라’는 한 가지 음식 | https://n.news.naver.com/article/346/0000119258?ntype=RANKING
-헬스조선 3위 | “아침에 사과와 우유 함께 먹었다간”… 위장 뒤집어지는 ‘최악의 궁합’ | https://n.news.naver.com/article/346/0000119257?ntype=RANKING
-헬스조선 4위 | “우유에 ‘이 가루’ 한 스푼 넣어 보세요”… 보약 안 부러운 영양식 됩니다 | https://n.news.naver.com/article/346/0000119256?ntype=RANKING
-헬스조선 5위 | ‘63세’ 김장훈의 다이어트 방법… “스트레칭 한 시간, 간헐적 단식 실천” | https://n.news.naver.com/article/346/0000119254?ntype=RANKING
-CJB청주방송 1위 | 목욕탕서 발 헛디뎌 ‘고온탕’에 풍덩...60대 ‘2도 화상’ | https://n.news.naver.com/article/655/0000033655?ntype=RANKING
-CJB청주방송 2위 | 평창서 공기총 사격 연습 중 ‘행인 피격’ 사망...60대 입건 | https://n.news.naver.com/article/655/0000033657?ntype=RANKING
+### 네이버 많이 본 뉴스 (언론사별 순위) (399개)
+파이낸셜뉴스 1위 | 71kg→54kg 감량 성공한 김지영 "예전으로 돌아갈 수 있을까 겁났다" [헬스톡] | https://n.news.naver.com/article/014/0005607968?ntype=RANKING
+파이낸셜뉴스 2위 | "키 163㎝, 가발 변장"...전자발찌 끊고 평택→진천 도주 '정영모' 공개 수배 | https://n.news.naver.com/article/014/0005607971?ntype=RANKING
+파이낸셜뉴스 3위 | 마라톤대회 10㎞ 완주 직후 19세 대학생, 쓰러져 숨져 | https://n.news.naver.com/article/014/0005607963?ntype=RANKING
+파이낸셜뉴스 4위 | 故 이진우 '브레인 악셀' 사인본 호가 25만원…10만원 매물은 당근 '예약중' | https://n.news.naver.com/article/014/0005607972?ntype=RANKING
+파이낸셜뉴스 5위 | "주식 폭락했다고 다 팔지 마라"…투자 전문가가 경고한 행동 | https://n.news.naver.com/article/014/0005607946?ntype=RANKING
+노컷뉴스 1위 | [단독] '갑질 논란' 약손명가 "폭로 점주들 언론인터뷰 등 막아달라" 가처분 | https://n.news.naver.com/article/079/0004212504?ntype=RANKING
+노컷뉴스 2위 | [속보] 코스피, 4700대로 내려앉아…코스닥 1%↓ | https://n.news.naver.com/article/079/0004212532?ntype=RANKING
+노컷뉴스 3위 | '보수의 심장'서 펑크록 10년…맥도날드 직원이 노무사 된 이유[씨리얼] | https://n.news.naver.com/article/079/0004212505?ntype=RANKING
+노컷뉴스 4위 | 비석만 1175곳 '추모의 섬'…국민 43% "현충시설 몰라" | https://n.news.naver.com/article/079/0004212507?ntype=RANKING
+노컷뉴스 5위 | 창원 아파트서 추락 40대 엄마 사망…5개월 아기 무사 | https://n.news.naver.com/article/079/0004212522?ntype=RANKING
+강원일보 1위 | “벌써 1만5천명 발길” 철원 한탄강 물윗길 대박조짐 | https://n.news.naver.com/article/087/0001232538?ntype=RANKING
+강원일보 2위 | 아파트서 생후 5개월 아기와 함께 떨어진 40대 여성 사망…아기는 목숨 건져 | https://n.news.naver.com/article/087/0001232485?ntype=RANKING
+강원일보 3위 | 배우 김민 토성면 산불 초기 진화 활약 화제 | https://n.news.naver.com/article/087/0001232413?ntype=RANKING
+강원일보 4위 | 건물 지하 보일라실서 미라 상태 시신 발견…경찰 수사 | https://n.news.naver.com/article/087/0001232461?ntype=RANKING
+강원일보 5위 | 영월서 차박 중 일산화탄소 중독&#8943;70대 여성 숨져 | https://n.news.naver.com/article/087/0001232493?ntype=RANKING
+KBS 1위 | “승강기 교체만 수십 억원”…초고층 아파트, 애물단지로 전락? [잇슈 머니] | https://n.news.naver.com/article/056/0012298942?ntype=RANKING
+KBS 2위 | 투표 하루 전 200만 원, 당일엔 술…수사 받자 “휴대전화 바꿔라” | https://n.news.naver.com/article/056/0012298915?ntype=RANKING
+KBS 3위 | “독성 하수에 암 발병”…공포 속 ‘지상 낙원’ [특파원 현장] | https://n.news.naver.com/article/056/0012298934?ntype=RANKING
+KBS 4위 | “금리 올리면 주가도 집값도 폭락?”…‘슈퍼 목요일’ 주목 [잇슈 머니] | https://n.news.naver.com/article/056/0012298940?ntype=RANKING
+KBS 5위 | ‘우크라 공격 추정’ 리비아항 러 군함 피격…러, 키이우 공습 | https://n.news.naver.com/article/056/0012298922?ntype=RANKING
+국민일보 1위 | 3년 만에 수능 17→100점… 진화한 AI ‘커닝 비즈니스’ 탄생시켜 | https://n.news.naver.com/article/005/0001886710?ntype=RANKING
+국민일보 2위 | 코레일 장애인 전형 합격했는데…“신체검사 뒤 취소 통보” | https://n.news.naver.com/article/005/0001886791?ntype=RANKING
+국민일보 3위 | [단독] 박상용 검사, ‘무기한 직무정지’ 해제 신청… “위법이자 정치보복” | https://n.news.naver.com/article/005/0001886796?ntype=RANKING
+국민일보 4위 | “‘AI시대 준비됐느냐’ 어른들도 함께 친 수능… 결과는 0점이었다” | https://n.news.naver.com/article/005/0001886628?ntype=RANKING
+국민일보 5위 | “요리는 성공의 도구였는데…”, 미쉐린 2스타 셰프가 방글라데시 빈민가 아이들 위해 차린 소망의 식탁 | https://n.news.naver.com/article/005/0001886778?ntype=RANKING
+연합뉴스 1위 | [유형재의 새록새록] "놓쳤다" 탄식의 순간…삵은 이미 사냥을 끝냈다 | https://n.news.naver.com/article/001/0016457067?ntype=RANKING
+연합뉴스 2위 | 野정성국 "작년 수능시험지, 전남·인천·경기 일부 이미 폐기" | https://n.news.naver.com/article/001/0016457253?ntype=RANKING
+연합뉴스 3위 | 코레일 장애인 전형으로 뽑혔는데…"신체검사 결과 불합격" | https://n.news.naver.com/article/001/0016457095?ntype=RANKING
+연합뉴스 4위 | 李대통령 지지율 37.3%로 2주연속 소폭상승…30%대 중후반 횡보[리얼미터](종합) | https://n.news.naver.com/article/001/0016457225?ntype=RANKING
+연합뉴스 5위 | 내 연금·유족연금 겹친 20.8만명…3.7만명은 내 연금 '0원' | https://n.news.naver.com/article/001/0016457058?ntype=RANKING
+매일경제 1위 | “그러게 월세를 왜 3배나 올려요?”...마음대로 하다가 된서리 맞은 건물주 | https://n.news.naver.com/article/009/0005767358?ntype=RANKING
+매일경제 2위 | “미친 거 아니냐”…‘미우새 출연’ 이혜영에 남편의 반응, 왜? | https://n.news.naver.com/article/009/0005767380?ntype=RANKING
+매일경제 3위 | “분양가 잘못 계산했다”…남양주 아파트 수분양자들 46억 돌려받는다 | https://n.news.naver.com/article/009/0005767365?ntype=RANKING
+매일경제 4위 | “어머니도 누나도 저도 혼자삽니다”…집주인 5명 중 1명은 1인가구 | https://n.news.naver.com/article/009/0005767376?ntype=RANKING
+매일경제 5위 | ‘송종국과 이혼’ 박연수 “아픔과 상처들로 괴로운 12년” 의미심장 고백 | https://n.news.naver.com/article/009/0005767382?ntype=RANKING
+MBC 1위 | 비행기에서 막무가내 끌려내린 부녀‥"ICE&#160;없애라" | https://n.news.naver.com/article/214/0001537308?ntype=RANKING
+MBC 2위 | [스트레이트] 신이 된 여자‥지리산 '영체님'의 실체 | https://n.news.naver.com/article/214/0001537270?ntype=RANKING
+MBC 3위 | 이 대통령 지지율 37.3%‥민주 35.6%·국힘 42.5% [리얼미터] | https://n.news.naver.com/article/214/0001537321?ntype=RANKING
+MBC 4위 | "저는 못할 것 같습니다" AI 부정행위 논란 키우다 결국 사퇴 | https://n.news.naver.com/article/214/0001537248?ntype=RANKING
+MBC 5위 | 전국법관대표회의 의장 "대법원장 탄핵 도 넘어‥침묵으로 방관 안 돼" | https://n.news.naver.com/article/214/0001537326?ntype=RANKING
+한국경제 1위 | 환불 요구 쏟아지던 리트 만점자 책…중고가 20만원까지 등장 | https://n.news.naver.com/article/015/0005356869?ntype=RANKING
+한국경제 2위 | "한국인처럼 한번 살아볼래요"…외국인 몰린 '뜻밖의 동네' [권용훈의 트렌드워치] | https://n.news.naver.com/article/015/0005356840?ntype=RANKING
+한국경제 3위 | "차가 왜 안 나가지?"…고장난 줄 알았던 아빠車의 '비밀' [신차털기] | https://n.news.naver.com/article/015/0005356839?ntype=RANKING
+한국경제 4위 | "지뢰밭 됐는데 누가 오겠냐"…예약 줄취소에 '비명' [전선의 손익계산서] | https://n.news.naver.com/article/015/0005356891?ntype=RANKING
+한국경제 5위 | 아빠가 입혀준 발열 조끼에 수능 퇴실…선생님들도 '울먹' | https://n.news.naver.com/article/015/0005356906?ntype=RANKING
+SBS 1위 | "잘 놀고 가세요" 길 알려줬는데 '순금' 벼락? | https://n.news.naver.com/article/055/0001404985?ntype=RANKING
+SBS 2위 | "차에 부딪히고 5만 원 달라"…'리트 만점자' 끝없는 의혹 | https://n.news.naver.com/article/055/0001404996?ntype=RANKING
+SBS 3위 | 전국법관회의 의장 "조희대 탄핵 도 넘어…행동으로 나서야" | https://n.news.naver.com/article/055/0001405011?ntype=RANKING
+SBS 4위 | 코스피, 3%대 하락 출발해 4,700대…코스닥 1%대 하락 | https://n.news.naver.com/article/055/0001405016?ntype=RANKING
+SBS 5위 | 시험 중인데 "고마워"?…수험생 부모 울린 '메시지' 정체 | https://n.news.naver.com/article/055/0001404993?ntype=RANKING
+헤럴드경제 1위 | “14세 수험생이 공인회계사 시험 통과했다”…합격률 고작 7.4%, 최연소 기록 경신 | https://n.news.naver.com/article/016/0002726795?ntype=RANKING
+헤럴드경제 2위 | “명품 살 돈이 없어요”…중산층 발길 끊기자 루이비통·구찌에 닥친 위기[나우,어스] | https://n.news.naver.com/article/016/0002726770?ntype=RANKING
+헤럴드경제 3위 | 31세 출산한 김지영 “몸의 변화가 충격적이었다”…17kg 줄어도 배가 예전 같지 않은 이유 [그들의 건강美학] | https://n.news.naver.com/article/016/0002726760?ntype=RANKING
+헤럴드경제 4위 | [속보]11월 1~20일 수출 774억달러, 102%↑…반도체 294%,전체의 절반 | https://n.news.naver.com/article/016/0002726896?ntype=RANKING
+헤럴드경제 5위 | 국평 20억 넘은 동탄·광명, 내년 공시가 현실화율 묶어도 경기남부 ‘비상’ [부동산360] | https://n.news.naver.com/article/016/0002726853?ntype=RANKING
+JTBC 1위 | "조희대 탄핵 도 넘었다, 판사들 '행동' 나서야"…법관대표회의 의장 작심 비판 | https://n.news.naver.com/article/437/0000521917?ntype=RANKING
+JTBC 2위 | 가발 쓰고 변장까지...전자발찌 끊고 달아난 50대 성범죄자 정영모 2차 공개수배 | https://n.news.naver.com/article/437/0000521915?ntype=RANKING
+JTBC 3위 | 김치 샌드위치 팔면서 '일본서 영감'…항의 빗발치자 메뉴 교체 | https://n.news.naver.com/article/437/0000521903?ntype=RANKING
+JTBC 4위 | "잘 놀고 가세요" 길 알려줬을 뿐인데…중국 학생들이 건넨 '순금' 선물 | https://n.news.naver.com/article/437/0000521948?ntype=RANKING
+JTBC 5위 | 추성훈 "엄마 이제 안싸워요"…48년 격투기 인생 마침표 [소셜픽] | https://n.news.naver.com/article/437/0000521934?ntype=RANKING
+서울신문 1위 | 발열조끼 입었다가 수능 끝났다…수험생 퇴실에 감독관도 울먹 | https://n.news.naver.com/article/081/0003701999?ntype=RANKING
+서울신문 2위 | 서울대 간 이부진 아들, 성인 되고 어머니 성으로 바꿨다 | https://n.news.naver.com/article/081/0003702019?ntype=RANKING
+서울신문 3위 | 100세까지 장수했는데 집 근처서 차에 치여 숨져… “열흘간 조기 게양” 어르신 기린 美마을 [월드픽] | https://n.news.naver.com/article/081/0003701996?ntype=RANKING
+서울신문 4위 | 하루 4시간 넘게 TV 봤다간 ‘날벼락’…‘이 장기’ 소리 없이 무너진다 [헬스픽] | https://n.news.naver.com/article/081/0003701884?ntype=RANKING
+서울신문 5위 | “어? 이 문제 이상한데” 성균관대 논술 시험 도중 ‘발칵’…“시간 허비했다” | https://n.news.naver.com/article/081/0003702003?ntype=RANKING
+코메디닷컴 1위 | “위장 점막 손상되고 염증 생긴다”… 위암 부르는 습관 3가지 | https://n.news.naver.com/article/296/0000107662?ntype=RANKING
+코메디닷컴 2위 | “과식 막아줘”&#8943;47kg 홍진경, 김에 싸먹는 ‘이 과일’ 뭐길래? | https://n.news.naver.com/article/296/0000107668?ntype=RANKING
+코메디닷컴 3위 | “채소라 맘껏 먹었는데”&#8943;바삭한 ‘이 간식’, 뱃살 관리엔 복병? | https://n.news.naver.com/article/296/0000107671?ntype=RANKING
+코메디닷컴 4위 | ‘44세’ 한채아, 군살 없는 20대 체형 비결… 아침 ‘이 습관’ 덕분? | https://n.news.naver.com/article/296/0000107666?ntype=RANKING
+코메디닷컴 5위 | 43kg 이유비, “밥 2공기에 5차까지?”&#8943;그래도 뼈말라 몸매, 비결이 뭐길래? | https://n.news.naver.com/article/296/0000107670?ntype=RANKING
+대구MBC 1위 | 송아지에게 우유 주던 농장주, 어미 소에 들이받혀 숨져 | https://n.news.naver.com/article/657/0000057715?ntype=RANKING
+대구MBC 2위 | 대구 고3, 수능 뒤 장학금·근로계약·전월세 배우는 ‘스무 살 수업’ | https://n.news.naver.com/article/657/0000057724?ntype=RANKING
+대구MBC 3위 | 철도노조, 준법 투쟁 26일로 연기‥ "사고 복구 먼저" | https://n.news.naver.com/article/657/0000057722?ntype=RANKING
+대구MBC 4위 | 이재명 대통령, 교육부 장관 사의 수용···국무총리에게 사후 조치 지시 | https://n.news.naver.com/article/657/0000057713?ntype=RANKING
+대구MBC 5위 | 차고 건조한 아침‥ 비 그친 뒤 주 후반 큰 일교차 | https://n.news.naver.com/article/657/0000057728?ntype=RANKING
+아시아경제 1위 | "정가 2만원대인데 초판본 28만원"…웃돈 붙은 이진우 '브레인 악셀' 무슨 일 | https://n.news.naver.com/article/277/0005846136?ntype=RANKING
+아시아경제 2위 | 실적 뛰었는데 기부는 줄었다…대기업 62% 기부금 감축 | https://n.news.naver.com/article/277/0005845985?ntype=RANKING
+아시아경제 3위 | "최소 12명" 추가 사망자 나오자 돌연 입장 바꿔…'백신 불신' 케네디, '백신 권고' | https://n.news.naver.com/article/277/0005846026?ntype=RANKING
+아시아경제 4위 | "한국에선 비싸서 못 먹는데"…해외서 징그럽다고 외면하던 '이것', 돌연 판매량 급증한 이유 | https://n.news.naver.com/article/277/0005846170?ntype=RANKING
+아시아경제 5위 | '퍽' 밀치고 "칭총칭총" 조롱…음료까지 맞은 한인 모녀, 美 인앤아웃 상대 소송 | https://n.news.naver.com/article/277/0005846167?ntype=RANKING
+YTN 1위 | 고 이진우 책 중고거래 65만 원 떴다...'브레인 악셀' 역주행, 왜? [앵커리포트] | https://n.news.naver.com/article/052/0002436587?ntype=RANKING
+YTN 2위 | "아빠가 입혀줬는데"...발열 조끼 입어 수능장서 쫓겨난 수험생 | https://n.news.naver.com/article/052/0002436595?ntype=RANKING
+YTN 3위 | "고득점자 다 어디 갔어?"...멕시코, 대면 재시험에 2만 명 '노쇼' [앵커리포트] | https://n.news.naver.com/article/052/0002436589?ntype=RANKING
+YTN 4위 | [단독] 쿠팡·배민도 손 못 대는 '배달 사채'...금감원, 실태 점검 | https://n.news.naver.com/article/052/0002436551?ntype=RANKING
+YTN 5위 | 이번엔 카드번호까지...한전, 또 150만 건 정보유출 | https://n.news.naver.com/article/052/0002436539?ntype=RANKING
+머니투데이 1위 | "아빠가 입혀준 발열 조끼 때문에"…수능장서 쫓겨난 수험생, 감독관도 울먹 | https://n.news.naver.com/article/008/0005444701?ntype=RANKING
+머니투데이 2위 | "리트 만점자에 9년 전 보험사기 당할 뻔"…과거 신분증 '인증글'까지 | https://n.news.naver.com/article/008/0005444718?ntype=RANKING
+머니투데이 3위 | "치킨 3만원인데 남는 게 없다고?"…사장님들 주머니 터는 배달앱의 비밀 | https://n.news.naver.com/article/008/0005444698?ntype=RANKING
+머니투데이 4위 | 만취 여성 집단 성폭행…녹취록에 드러난 '브라질 축구 스타'의 민낯[뉴스속오늘] | https://n.news.naver.com/article/008/0005444714?ntype=RANKING
+머니투데이 5위 | 남편 생활비로 해외서 불륜…이혼하자니 예금 빼고 "한국 재산 절반 줘" | https://n.news.naver.com/article/008/0005444749?ntype=RANKING
+한겨레 1위 | [단독] 전국법관대표회의 의장 “조희대 탄핵소추 땐 법관들 행동 나서야” | https://n.news.naver.com/article/028/0002833425?ntype=RANKING
+한겨레 2위 | 이 대통령 “치아 흔들리고 코피 터지지만…임기 초 순방은 국정과제” | https://n.news.naver.com/article/028/0002833349?ntype=RANKING
+한겨레 3위 | [단독] 수능 직전 ‘부정시험 장비’ 거래 정황…돈만 가로채는 2차 사기 우려도 | https://n.news.naver.com/article/028/0002833427?ntype=RANKING
+한겨레 4위 | ‘4년 예고제’ 대입 개편…AI 부정행위 논란에 ‘서·논술형 수능’ 힘 받나 | https://n.news.naver.com/article/028/0002833428?ntype=RANKING
+한겨레 5위 | 월요일부터 춥고 미끄럽다…전국 비 또는 눈, ‘살얼음’ 주의 | https://n.news.naver.com/article/028/0002833442?ntype=RANKING
+서울경제 1위 | “넌 내 딸 아니잖아” 16개월 아기 ‘미스 박’이라 부른 계부…숨진 아이의 몸엔 멍투성이 [오늘의 그날] | https://n.news.naver.com/article/011/0004684896?ntype=RANKING
+서울경제 2위 | 엔비디아 폭락 전…젠슨 부부, 14조 자녀 신탁으로 옮겼다 | https://n.news.naver.com/article/011/0004684912?ntype=RANKING
+서울경제 3위 | “일본, 공짜 땅 생기나”…바다서 솟아오른 새 육지, 무슨 일? | https://n.news.naver.com/article/011/0004684892?ntype=RANKING
+서울경제 4위 | “한국인들은 비싸서 못 먹는데 역겹다니”…해외서 찾기 시작한 ‘이것’, 이유는 | https://n.news.naver.com/article/011/0004684728?ntype=RANKING
+서울경제 5위 | “밥은 적게 먹는데 뱃살은 왜 늘지?”…습관처럼 마시는 ‘이 음료’가 복병 [헬시타임] | https://n.news.naver.com/article/011/0004684925?ntype=RANKING
+조선일보 1위 | 개미들 563조 잃고 빚더미… 외국인은 224조 팔아 수익 | https://n.news.naver.com/article/023/0004011122?ntype=RANKING
+조선일보 2위 | 김민석 취임 100일, 지지율 10%p 올린다더니 8%p 떨어졌다 | https://n.news.naver.com/article/023/0004011113?ntype=RANKING
+조선일보 3위 | 끔찍한 ‘두 얼굴의 선생님’ 유괴 살인만 한 게 아니었다. 22명의 여학생을... [유석재의 악인전] | https://n.news.naver.com/article/023/0004011035?ntype=RANKING
+조선일보 4위 | 앞치마로 AI 막는 국가시험 | https://n.news.naver.com/article/023/0004011126?ntype=RANKING
+조선일보 5위 | ‘증안펀드’ 등판 준비... 주식시장 바닥 신호? | https://n.news.naver.com/article/023/0004011138?ntype=RANKING
+뉴시스 1위 | "삼전 30만원·하닉 200만원 이상에 물린 사람…3년은 마음 비워야" | https://n.news.naver.com/article/003/0014338432?ntype=RANKING
+뉴시스 2위 | "1억 매출에 순이익 300만원"…벼랑 끝에 몰린 자영업의 민낯 | https://n.news.naver.com/article/003/0014338522?ntype=RANKING
+뉴시스 3위 | "원금만 회복하면 주식 떠나겠다"…전문가가 꼽은 최악의 투자법 | https://n.news.naver.com/article/003/0014338001?ntype=RANKING
+뉴시스 4위 | 법관회의 의장 "민주당 도 넘었다…조희대 탄핵 의결시 '행동'" | https://n.news.naver.com/article/003/0014338617?ntype=RANKING
+뉴시스 5위 | 美정보국장 "中스파이 의심 앨리스 황·메가스피드 수사 중" | https://n.news.naver.com/article/003/0014338486?ntype=RANKING
+조선비즈 1위 | 이부진 아들, 성인 되고 어머니 성으로 바꿨다 | https://n.news.naver.com/article/366/0001206584?ntype=RANKING
+조선비즈 2위 | 李 지지율 2주 연속 상승한 37.3%…국힘, 민주당에 오차 밖 우세 [리얼미터] | https://n.news.naver.com/article/366/0001206556?ntype=RANKING
+조선비즈 3위 | 주가 반토막에 풋옵션 부담… 에코프로비엠, 기존 FI와 CB 재발행 추진 | https://n.news.naver.com/article/366/0001206530?ntype=RANKING
+조선비즈 4위 | 2.77% 하락 출발한 코스피…4800선 붕괴 | https://n.news.naver.com/article/366/0001206563?ntype=RANKING
+조선비즈 5위 | AI 전력난에 가스터빈 품귀… 중고·제트·선박엔진도 출격 | https://n.news.naver.com/article/366/0001206531?ntype=RANKING
+중앙일보 1위 | 출소 반년 만 ‘1등급’ 이진우…“2023년 수능, 외부 공범 가능성” | https://n.news.naver.com/article/025/0003566984?ntype=RANKING
+중앙일보 2위 | “6개월 지나도 안 썩는다”…지하철역 ‘중국산 1000원빵’ 논란 | https://n.news.naver.com/article/025/0003566944?ntype=RANKING
+중앙일보 3위 | 전공의 시험서 117명 수상한 고득점…재시험 치르자 충격 결과 | https://n.news.naver.com/article/025/0003567075?ntype=RANKING
+중앙일보 4위 | 공학 최강대학은 성균관·포스텍, 인문은 고려·서울대 [2026 대학평가] | https://n.news.naver.com/article/025/0003567086?ntype=RANKING
+중앙일보 5위 | [단독] 학폭으로 전치 9주…가해자 셋 그대로 같은 반 남았다 | https://n.news.naver.com/article/025/0003567094?ntype=RANKING
+한국일보 1위 | [단독] 이종석 국정원장 교체될 듯, 후임에 강금실 유력 | https://n.news.naver.com/article/469/0000967110?ntype=RANKING
+한국일보 2위 | "군대 안 갔더라면 몰매 맞을 뻔"… 군 가산점 '위헌' 이끈 이석연 변호사 | https://n.news.naver.com/article/469/0000967113?ntype=RANKING
+한국일보 3위 | 수능 창시자의 '탄식'... "AI가 단번에 푸는 시험을 인간이 볼 이유 있나" | https://n.news.naver.com/article/469/0000967101?ntype=RANKING
+한국일보 4위 | 목포 마라톤 대회서 19세男 숨져… 10㎞ 결승선 통과 후 경련 증세 | https://n.news.naver.com/article/469/0000967124?ntype=RANKING
+한국일보 5위 | [속보] 코스피 개장 직후 3.8% 급락…4600선으로 | https://n.news.naver.com/article/469/0000967138?ntype=RANKING
+세계일보 1위 | 수출 1조달러인데 코스피 또 급락…장 열리자마자 파란불 [숫자 뒤의 진실] | https://n.news.naver.com/article/022/0004177218?ntype=RANKING
+세계일보 2위 | [단독] 48% “고득점자 AI 커닝 의심”… 54% “수능 평가방식 바꿔야” [심층기획-AI, 시험 공정성 흔들다] | https://n.news.naver.com/article/022/0004177151?ntype=RANKING
+세계일보 3위 | 양치하다 거울 봤는데 혀가 ‘청보라색’…위암 신호일까? | https://n.news.naver.com/article/022/0004177219?ntype=RANKING
+세계일보 4위 | 그린피 비싸다고 욕먹는데 세금까지…회원제 골프장 CEO들 ‘비명’ [권준영의 머니볼] | https://n.news.naver.com/article/022/0004177225?ntype=RANKING
+세계일보 5위 | 매일 닭가슴살 챙겨 먹는데 오후마다 더부룩하다면…식단 고수들이 ‘이 곡물’로 갈아타는 까닭 | https://n.news.naver.com/article/022/0004177227?ntype=RANKING
+데일리안 1위 | "아이 울고 있었다" 창원의 한 아파트서 40대·생후 5개월 母女 추락 | https://n.news.naver.com/article/119/0003158088?ntype=RANKING
+데일리안 2위 | "고득점자들 재시험 봤더니 최저 28점"...의사시험 결과 '충격' | https://n.news.naver.com/article/119/0003158122?ntype=RANKING
+데일리안 3위 | "AI 부정행위? 6년 준비했다"...엠디트 수석, 시험지까지 공개 | https://n.news.naver.com/article/119/0003158129?ntype=RANKING
+데일리안 4위 | '대법원장 탄핵' 마주한 보수 진영…'장·한·석' 이번엔 뭉칠까, 흩어질까 | https://n.news.naver.com/article/119/0003158067?ntype=RANKING
+데일리안 5위 | '탄핵은 탄핵, 징계는 징계'…민주당 '최민희 사태 내진' 여전 | https://n.news.naver.com/article/119/0003158066?ntype=RANKING
+경향신문 1위 | 정당 지지율 뒤집은 ‘정부 견제론’…2028년 총선 전망 설문에 민주당 ‘먹구름’ | https://n.news.naver.com/article/032/0003484333?ntype=RANKING
+경향신문 2위 | 10㎞ 완주한 19세 사망···20대 이어 또 발생한 ‘마라톤 돌연사’, 막을 방법은 없나 | https://n.news.naver.com/article/032/0003484351?ntype=RANKING
+경향신문 3위 | 이 대통령 지지율 37.3% 2주 연속 상승…국힘 42.5%·민주 35.6% | https://n.news.naver.com/article/032/0003484347?ntype=RANKING
+경향신문 4위 | 신교통수단이라더니 세금만 낭비한 ‘3칸 굴절버스’···운행도 못해보고 정류장 다시 뜯어낼 판 | https://n.news.naver.com/article/032/0003484335?ntype=RANKING
+경향신문 5위 | 조선소 청년 용접공의 죽음…“오빠 살려내라는 게 아냐, 또 다른 죽음 막아 달라”[인터뷰] | https://n.news.naver.com/article/032/0003484331?ntype=RANKING
+디지털타임스 1위 | 배우자 떠나고 유족연금 택했더니…3.7만명, 평생 낸 ‘내 국민연금’은 0원 됐다 | https://n.news.naver.com/article/029/0003060520?ntype=RANKING
+디지털타임스 2위 | 코스피, 또 4700선 추락…외인·기관 ‘사자’에 하단 방어 시도 | https://n.news.naver.com/article/029/0003060540?ntype=RANKING
+디지털타임스 3위 | 영국 ‘EU 재가입 검토’에…메이 전 총리 “경악 금치 못해, 브렉시트는 끝났다” | https://n.news.naver.com/article/029/0003060503?ntype=RANKING
+디지털타임스 4위 | 영월서 차박 하던 70대 여성 숨져…함께 있던 60대 남성은 경상 | https://n.news.naver.com/article/029/0003060492?ntype=RANKING
+디지털타임스 5위 | ‘젠슨 황 불륜’ 여성, 캄보디아 범죄조직과 얽혔다…AI 칩 중국 공급망 분석 | https://n.news.naver.com/article/029/0003060506?ntype=RANKING
+미디어오늘 1위 | 조희대 탄핵 나선 민주당… 동아 "이재명 대통령이 제동 걸어야" | https://n.news.naver.com/article/006/0000138891?ntype=RANKING
+미디어오늘 2위 | 사법부에 '훈수' 둔 김건희…"안하무인 국민 우롱" | https://n.news.naver.com/article/006/0000138888?ntype=RANKING
+미디어오늘 3위 | 李대통령 "치아 흔들리고 코피까지 터지는 일이지만…" | https://n.news.naver.com/article/006/0000138889?ntype=RANKING
+미디어오늘 4위 | 젠슨황 성씨로 말장난하는 미국 언론… "인종차별 강화 우려" | https://n.news.naver.com/article/006/0000138887?ntype=RANKING
+미디어오늘 5위 | 조선일보 유튜브, 조희대 탄핵 추진에 "'친청'의 대통령 압박 카드" | https://n.news.naver.com/article/006/0000138885?ntype=RANKING
+연합뉴스TV 1위 | 소백산 등산 중 마주친 '묘한 눈빛'…토종 붉은여우 포착 | https://n.news.naver.com/article/422/0000928789?ntype=RANKING
+연합뉴스TV 2위 | '핑계고', 음주운전 고경표 시상식 후보 올렸다 사과 | https://n.news.naver.com/article/422/0000928852?ntype=RANKING
+연합뉴스TV 3위 | [속보] 코스피, 2.77% 내린 4,734.90 출발 | https://n.news.naver.com/article/422/0000928861?ntype=RANKING
+연합뉴스TV 4위 | 하루 최대 15번 뿌렸다…'코 스프레이 10년'에 코 더 막힌 여성 | https://n.news.naver.com/article/422/0000928788?ntype=RANKING
+연합뉴스TV 5위 | 靑, 국정원장 교체설에 "인사 확인 어려워" | https://n.news.naver.com/article/422/0000928856?ntype=RANKING
+MBN 1위 | "민주당 때문에 시총 8,000조 증발"…또 증시 폭락 책임 돌린 트럼프 | https://n.news.naver.com/article/057/0001979406?ntype=RANKING
+MBN 2위 | "리트 만점자에 10년 전 보험사기 당할 뻔"…경험담 화제 | https://n.news.naver.com/article/057/0001979342?ntype=RANKING
+MBN 3위 | 마라톤 완주한 직후 쓰러진 19세 대학생 사망 | https://n.news.naver.com/article/057/0001979403?ntype=RANKING
+MBN 4위 | 14세가 합격률 '7%대' 공인회계사 시험 합격…일본서 최연소 기록 경신 | https://n.news.naver.com/article/057/0001979391?ntype=RANKING
+MBN 5위 | 창원 아파트서 40대 여성, 아기 안고 추락…엄마 숨지고 아이 무사 | https://n.news.naver.com/article/057/0001979334?ntype=RANKING
+동아일보 1위 | “손정의, 하이닉스 1조달러에 인수 검토”… SK측 “아는바 없다” | https://n.news.naver.com/article/020/0003764257?ntype=RANKING
+동아일보 2위 | 창원 아파트서 5개월 아기 안고 추락한 40대女 사망…아기는 생존 | https://n.news.naver.com/article/020/0003764214?ntype=RANKING
+동아일보 3위 | “트럼프, 김정은에 편지…北, 열지도 않고 내던져” | https://n.news.naver.com/article/020/0003764320?ntype=RANKING
+동아일보 4위 | ‘6·3 선거사범’ 공소시효 열흘 앞, 광역 2명 포함 단체장 34명 송치 | https://n.news.naver.com/article/020/0003764307?ntype=RANKING
+동아일보 5위 | 매컬리 컬킨 ‘나 홀로 집에’ 34년만에 돌아온다 | https://n.news.naver.com/article/020/0003764287?ntype=RANKING
+한국경제TV 1위 | [속보] 미국발 악재에 "월요일 두려웠는데"…"투매 동참 마라"는 증권가 | https://n.news.naver.com/article/215/0001273579?ntype=RANKING
+한국경제TV 2위 | 김원효 트렌스젠더바 방문에 '시끌'...부인 심진화 '해명' | https://n.news.naver.com/article/215/0001273540?ntype=RANKING
+한국경제TV 3위 | 88억에 샀는데 173억으로…지드래곤, 청담동 빌딩 '잭팟' | https://n.news.naver.com/article/215/0001273568?ntype=RANKING
+한국경제TV 4위 | "아직 비싸다"...'2300조' 증발했는데 냉정한 경고 나왔다 | https://n.news.naver.com/article/215/0001273552?ntype=RANKING
+한국경제TV 5위 | 월가는 '검은 금요일'이라고 말하지 않았다 [마켓무버의 국장 힌트] | https://n.news.naver.com/article/215/0001273559?ntype=RANKING
+비즈워치 1위 | 문턱 낮아진 리모델링…건설업계 "스피드 승부" | https://n.news.naver.com/article/648/0000052864?ntype=RANKING
+비즈워치 2위 | [인사이드 스토리]7년 끈 3조 투자 마침표…LGD, 초대형 OLED 베팅 접은 까닭 | https://n.news.naver.com/article/648/0000052865?ntype=RANKING
+비즈워치 3위 | 국산 전기차 세액공제 확대 가닥에도…정부 막판까지 고심 이유 | https://n.news.naver.com/article/648/0000052866?ntype=RANKING
+비즈워치 4위 | 차기 은행연합회장에 박종복…조용병 "이 상황 최적의 인물로 결정" | https://n.news.naver.com/article/648/0000052872?ntype=RANKING
+비즈워치 5위 | '증안펀드' 가동 준비만 해도 코스피 반등?…과거 사례 보니 | https://n.news.naver.com/article/648/0000052863?ntype=RANKING
+이데일리 1위 | "100만원 빌리려다"...정형돈, 대부업체 전화했다가 '충격' | https://n.news.naver.com/article/018/0006413873?ntype=RANKING
+이데일리 2위 | 아내만 숨진 새벽…남편이 들어둔 보험 95억의 비밀①[그날의 이유] | https://n.news.naver.com/article/018/0006413818?ntype=RANKING
+이데일리 3위 | “11월 8일 직접 만났다”…故이진우 사인 담긴 책 '20만원'에 나와 | https://n.news.naver.com/article/018/0006413875?ntype=RANKING
+이데일리 4위 | "안전장비도 없이 난간에"…'나혼산' 번지점프장, 결국 과태료 | https://n.news.naver.com/article/018/0006413966?ntype=RANKING
+이데일리 5위 | "주말마다 뭐하는 거야!"...'길막' 마라톤 항의에 경찰도 "화날 만해" | https://n.news.naver.com/article/018/0006413919?ntype=RANKING
+TV조선 1위 | "이런 시험이면 없애는 게 낫다" 수능 창시자의 탄식 | https://n.news.naver.com/article/448/0000652726?ntype=RANKING
+TV조선 2위 | 李 대통령 지지율 37.3% 2주 연속 상승…국힘 42.5%·민주 35.6% [리얼미터] | https://n.news.naver.com/article/448/0000652715?ntype=RANKING
+TV조선 3위 | 자질 논란 속 임명된 '전교조 출신' 첫 교육장관…'수능 무대책'에 불명예 퇴진 | https://n.news.naver.com/article/448/0000652700?ntype=RANKING
+TV조선 4위 | '검은 월요일' 공포 확산…하반기에만 개미들 563조 손실 | https://n.news.naver.com/article/448/0000652695?ntype=RANKING
+TV조선 5위 | 법관회의 의장 "曺탄핵 도 넘어…의결한다면 우리도 행동 나서야" | https://n.news.naver.com/article/448/0000652697?ntype=RANKING
+부산일보 1위 | "5만 원만 달라더라" 리트 만점자 추정 보험사기 경험담 나와 | https://n.news.naver.com/article/082/0001408421?ntype=RANKING
+부산일보 2위 | '만취 운전으로 집행유예' 숨긴 철도 기관사, 면직 취소 소송서 패소 | https://n.news.naver.com/article/082/0001408418?ntype=RANKING
+부산일보 3위 | [단독] 부산 유일 동물원 내년 5월 다시 시민 품으로 | https://n.news.naver.com/article/082/0001408413?ntype=RANKING
+부산일보 4위 | 이 대통령 지지율, 2주 연속 올라 37%… 정당은 국힘 42%로 가장 높아 | https://n.news.naver.com/article/082/0001408423?ntype=RANKING
+부산일보 5위 | 부산 어린이대공원 멧돼지 잇단 출몰…‘포획 틀’ 첫 설치 | https://n.news.naver.com/article/082/0001408387?ntype=RANKING
+매일신문 1위 | "재판 안 받으십니까, 예?" 李향한 시민 외침…장성민 "민심 외면하면 시장도 못가" | https://n.news.naver.com/article/088/0001041677?ntype=RANKING
+매일신문 2위 | "선생님들도 울먹여"…아빠가 준 발열조끼 입은 수험생 '퇴실 조치' 무슨일? | https://n.news.naver.com/article/088/0001041678?ntype=RANKING
+매일신문 3위 | "지금 손절하면 늦다"…삼전 30만원·하닉 200만원 물린 개미들, 전문가 조언은 | https://n.news.naver.com/article/088/0001041675?ntype=RANKING
+매일신문 4위 | 李 사의 재가 교육부 장관 후임 최은옥·고민정·박백범 등 하마평 [금주의 이슈] | https://n.news.naver.com/article/088/0001041658?ntype=RANKING
+매일신문 5위 | "SK하이닉스 통째로 사겠다"…손정의, 1조달러 인수 자금 알아봤다 | https://n.news.naver.com/article/088/0001041680?ntype=RANKING
+아이뉴스24 1위 | "감독관들도 울먹였다"…발열조끼 때문에 '퇴실 조치'된 수험생 | https://n.news.naver.com/article/031/0001077333?ntype=RANKING
+아이뉴스24 2위 | [란생처음] 내겐 너무 큰 '투싼'&#8943;운전 고수는 왜 SUV가 편하다고 할까 | https://n.news.naver.com/article/031/0001077306?ntype=RANKING
+아이뉴스24 3위 | '김대중 마라톤대회' 참가한 10대 대학생 사망&#8943;결승선 통과 후 경련 증세 | https://n.news.naver.com/article/031/0001077314?ntype=RANKING
+아이뉴스24 4위 | 전자발찌 끊은 50대 성범죄자, 가발까지 쓰며 도주 중&#8943;실명 공개하며 수배 | https://n.news.naver.com/article/031/0001077325?ntype=RANKING
+아이뉴스24 5위 | 창원 아파트서 40대 여성이 5개월 딸 안고 추락&#8943;엄마 사망·아이 무사 | https://n.news.naver.com/article/031/0001077316?ntype=RANKING
+시사저널 1위 | 방어권 행사일까, 수사 개입일까…특검 앞 李 '대장동 반박' 후폭풍 | https://n.news.naver.com/article/586/0000142808?ntype=RANKING
+시사저널 2위 | 공포탄일까, 실탄일까…'이재명 탄핵' 경고한 野의 속내는 | https://n.news.naver.com/article/586/0000142805?ntype=RANKING
+시사저널 3위 | "국힘만 싫은 게 아니다"…민주당에 등돌린 청년들 | https://n.news.naver.com/article/586/0000142806?ntype=RANKING
+시사저널 4위 | "모듈러 임대주택, 실제로 들어가 살아도 괜찮을까요?"&#160;[사이다 부동산] | https://n.news.naver.com/article/586/0000142804?ntype=RANKING
+시사저널 5위 | 16년 만의 원전 수출 축포 무색…공사비 갈등에 갈라선 '팀코리아' | https://n.news.naver.com/article/586/0000142809?ntype=RANKING
+뉴스1 1위 | 인천공항서 길 알려준 한국인에 순금 선물한 중국인 학생들 | https://n.news.naver.com/article/421/0009303725?ntype=RANKING
+뉴스1 2위 | '갑자기 똑똑해진 학생들' 세계가 난리…만점 3배 늘자 5.8만명 재시험 | https://n.news.naver.com/article/421/0009303594?ntype=RANKING
+뉴스1 3위 | 아빠가 입혀준 발열 조끼 탓 퇴실당한 수험생…"감독 선생님들도 울먹" | https://n.news.naver.com/article/421/0009303866?ntype=RANKING
+뉴스1 4위 | "이진우 책 '브레인 악셀' 읽고 서울대 치대 도전할 것"…웃돈 중고 거래 | https://n.news.naver.com/article/421/0009304082?ntype=RANKING
+뉴스1 5위 | "1억 줄 테니 시댁 10분 거리로 이사 오거라"…시아버지 요구에 '시름' | https://n.news.naver.com/article/421/0009303758?ntype=RANKING
+문화일보 1위 | [속보]아파트서 엄마와 5개월 아기 추락…안고있던 아기만 무사 | https://n.news.naver.com/article/021/0002834600?ntype=RANKING
+문화일보 2위 | ‘대통령픽’ 이광수마저…“주식시장, 완전 망하면 그건 비상이 아냐” | https://n.news.naver.com/article/021/0002834585?ntype=RANKING
+문화일보 3위 | “재판 안받으시나” 울산시장서 대통령에 물은 남자 | https://n.news.naver.com/article/021/0002834655?ntype=RANKING
+문화일보 4위 | [속보]김민석취임 100일앞…국힘42.5%·민주35.6%-리얼미터 | https://n.news.naver.com/article/021/0002834675?ntype=RANKING
+문화일보 5위 | “살려주세요. 원금만 회복하면 주식 안할게요”…최악의 투자법입니다 | https://n.news.naver.com/article/021/0002834601?ntype=RANKING
+강원도민일보 1위 | [속보] 삼전·닉스, 장초반 나란히 약세…하이닉스 장중 110만원선 밑으로 | https://n.news.naver.com/article/654/0000212793?ntype=RANKING
+강원도민일보 2위 | 아파트서 40대 여성 추락해 숨져…품에 안긴 생후 5개월 아기는 생존 | https://n.news.naver.com/article/654/0000212642?ntype=RANKING
+강원도민일보 3위 | 주차타워 지하서 미라화 시신 발견…내일 수습 예정 | https://n.news.naver.com/article/654/0000212624?ntype=RANKING
+강원도민일보 4위 | '로또 복권' 못 받아 흉기 휘두른 60대…무기징역서 징역 45년으로 | https://n.news.naver.com/article/654/0000212640?ntype=RANKING
+강원도민일보 5위 | 코스피 5000선 붕괴에 'F4' 긴급 소집…증안펀드 가동 준비 | https://n.news.naver.com/article/654/0000212666?ntype=RANKING
+채널A 1위 | ‘LEET 만점자’ 휴대폰 제출, 유족과 곧 협의…2024 수능도 수사? | https://n.news.naver.com/article/449/0000368327?ntype=RANKING
+채널A 2위 | 이 대통령 지지율 37.3%…전주 대비 0.9%p↑[리얼미터] | https://n.news.naver.com/article/449/0000368351?ntype=RANKING
+채널A 3위 | “엔비디아 칩 중국 밀수망에 앨리스 황과 캄보디아 범죄기업 포함” | https://n.news.naver.com/article/449/0000368350?ntype=RANKING
+채널A 4위 | 수능 전후 사라진 최교진…1시간 만에 사표 수리 | https://n.news.naver.com/article/449/0000368326?ntype=RANKING
+채널A 5위 | 국민의힘 ‘청년정책 패키지’ 발표…장동혁 “진짜 싸움은 정책” | https://n.news.naver.com/article/449/0000368346?ntype=RANKING
+kbc광주방송 1위 | 李대통령 지지율 37.3% '2주 연속 상승'…국민의힘 42.5%·민주당 35.6% | https://n.news.naver.com/article/660/0000121969?ntype=RANKING
+kbc광주방송 2위 | 아파트서 5개월 아기 안고 추락...40대女 숨지고 아이는 무사 | https://n.news.naver.com/article/660/0000121952?ntype=RANKING
+kbc광주방송 3위 | 영월서 차박하던 여성 숨져...동승자는 '전신 쇠약' 증상 | https://n.news.naver.com/article/660/0000121946?ntype=RANKING
+kbc광주방송 4위 | 김성태 "'대권 생각' 장동혁, 한동훈 절대 안 받아...국힘 접수, 지지율이 깡패, 근데 그 정도 나올까"[여의도 중진대담] | https://n.news.naver.com/article/660/0000121937?ntype=RANKING
+kbc광주방송 5위 | 대법 "아파트 공사비 부풀려졌어도…분양가상한제 위반은 총액 기준" | https://n.news.naver.com/article/660/0000121966?ntype=RANKING
+전자신문 1위 | 주가 계속 떨어져도 내년 반도체 호황?…삼전닉스 한번 더 믿어보라는 전망 나왔는데 | https://n.news.naver.com/article/030/0003488367?ntype=RANKING
+전자신문 2위 | “빚내서 주식했다가 물렸다”…4050 덮친 '빚투 부메랑' | https://n.news.naver.com/article/030/0003488256?ntype=RANKING
+전자신문 3위 | 스스로 길 찾고 균형까지…산길 달리는 'AI 자전거 로봇' | https://n.news.naver.com/article/030/0003488342?ntype=RANKING
+전자신문 4위 | 막노동하다 서울대 법대 수석 입학?…“지금이라면 의심부터, 30년 전이라 가능?” | https://n.news.naver.com/article/030/0003488183?ntype=RANKING
+전자신문 5위 | '112세' 역대 최고령 덴마크 할머니, 장수비결 책까지 냈는데…알고 보니 '나치당 간부'였다 | https://n.news.naver.com/article/030/0003488285?ntype=RANKING
+프레시안 1위 | [속보] 판사들 이례적 '집단행동' 시사…"조희대 탄핵시 우리도 '행동' 나서자" | https://n.news.naver.com/article/002/0002467043?ntype=RANKING
+프레시안 2위 | 김영훈 장관 "정년연장안 내는 것 자제했는데 이제 시점 다가오고 있다" | https://n.news.naver.com/article/002/0002467034?ntype=RANKING
+프레시안 3위 | 국가 시험 AI 커닝 의혹 일파만파…변리사 시험 2차 고득점자 갑자기 14배 급증 | https://n.news.naver.com/article/002/0002467039?ntype=RANKING
+프레시안 4위 | 스마트폰·알코올·마약…'끊으면 되지 않나'란 말이 놓치는 것[시민건강논평] | https://n.news.naver.com/article/002/0002467042?ntype=RANKING
+프레시안 5위 | "잔치 뒤가 더 무섭다"…반도체 산업의 '핏줄' 화물 노동자의 노동과 불안 | https://n.news.naver.com/article/002/0002467037?ntype=RANKING
+농민신문 1위 | 요양보호사에 ‘집안일’ 어디까지 요구해도 되나…‘재가서비스’ 올바른 이용법 | https://n.news.naver.com/article/662/0000109028?ntype=RANKING
+농민신문 2위 | 화장실에서 곤란한 이 병 있다면…콩팥 위험 살피는 기준 될 수도 | https://n.news.naver.com/article/662/0000109017?ntype=RANKING
+농민신문 3위 | “나이 들면 무조건 줄어든다?”…‘회춘 물질’로 알려진 ‘이것’의 반전 | https://n.news.naver.com/article/662/0000109011?ntype=RANKING
+농민신문 4위 | 신경치료후 뿌리 약해진 어린 영구치…재생 돕는 ‘단백질’ 발견 | https://n.news.naver.com/article/662/0000109021?ntype=RANKING
+농민신문 5위 | 조합장선거 D-100…“불법·부정행위 근절” | https://n.news.naver.com/article/662/0000109043?ntype=RANKING
+지디넷코리아 1위 | [단독] 국산 NPU 상용 시대 열었다...리벨리온, SKT에 '리벨' 칩 서버 40대 공급 | https://n.news.naver.com/article/092/0002446370?ntype=RANKING
+지디넷코리아 2위 | "애플, 내년 초 신제품 쏟아낸다…아이폰18·맥북 네오2 출격" | https://n.news.naver.com/article/092/0002446374?ntype=RANKING
+지디넷코리아 3위 | 디지털 교육 앞서가던 노르웨이, 다시 종이책 꺼냈다...왜 | https://n.news.naver.com/article/092/0002446369?ntype=RANKING
+지디넷코리아 4위 | GS25, 캄보디아에 1호점…10년 내 500개점 목표 | https://n.news.naver.com/article/092/0002446385?ntype=RANKING
+지디넷코리아 5위 | "월급 안 줘도 일 잘하네"…가맹점주 돕는 AI 직원들 | https://n.news.naver.com/article/092/0002446347?ntype=RANKING
+오마이뉴스 1위 | AI 늪에 빠진 10대들, 국어교사가 앞치마 두른 까닭 | https://n.news.naver.com/article/047/0002536814?ntype=RANKING
+오마이뉴스 2위 | 수능 커닝은 빙산의 일각... 전문가들이 경고한 진짜 문제 | https://n.news.naver.com/article/047/0002536813?ntype=RANKING
+오마이뉴스 3위 | 조희대 탄핵 결정한 민주당, 최선의 시나리오는? | https://n.news.naver.com/article/047/0002536809?ntype=RANKING
+오마이뉴스 4위 | 연간 13만 개 팔린 '혈관청소주사'의 충격적 진실 [소셜 코리아] | https://n.news.naver.com/article/047/0002536811?ntype=RANKING
+오마이뉴스 5위 | 코드도 모르던 대학 1학년, AI로 300만 원 외주를 끝냈다 | https://n.news.naver.com/article/047/0002536808?ntype=RANKING
+한경비즈니스 1위 | [속보]서울 지하철 멈추나...총파업 기로 | https://n.news.naver.com/article/050/0000113593?ntype=RANKING
+한경비즈니스 2위 | 뉴욕발 ‘엔비디아 쇼크’ 직격탄… 코스피 장 초반 2.9% 급락 | https://n.news.naver.com/article/050/0000113601?ntype=RANKING
+한경비즈니스 3위 | 이부진 아들, 엄마 성으로 바꿨다…임씨에서 이씨로 | https://n.news.naver.com/article/050/0000113605?ntype=RANKING
+한경비즈니스 4위 | 정년 65세로 늘어나나 | https://n.news.naver.com/article/050/0000113592?ntype=RANKING
+한경비즈니스 5위 | “급등장에 발행한 CB” 기업 상환부담 고조 | https://n.news.naver.com/article/050/0000113600?ntype=RANKING
+대전일보 1위 | 이 대통령 지지율 2주 연속 오른 37.3%… 민주 35.6%·국힘 42.5% | https://n.news.naver.com/article/656/0000193240?ntype=RANKING
+대전일보 2위 | 수능 끝나니 외모 관리?…수험생 겨냥 미용 할인, 성형 조장 우려 | https://n.news.naver.com/article/656/0000193228?ntype=RANKING
+대전일보 3위 | 최교진 장관 사퇴했지만…정부 AI 부정행위 책임론 확산 | https://n.news.naver.com/article/656/0000193194?ntype=RANKING
+대전일보 4위 | 'AI 부정행위' 논란 지속…흔들리는 전국 시험판 | https://n.news.naver.com/article/656/0000193212?ntype=RANKING
+대전일보 5위 | 공공기관 유치전 가열, 여·야 한목소리 | https://n.news.naver.com/article/656/0000193229?ntype=RANKING
+블로터 1위 | 차기 은행연합회장 박종복…'KB 쏠림' 부담 떨쳤다 | https://n.news.naver.com/article/293/0000093653?ntype=RANKING
+블로터 2위 | 테슬라 FSD 14.2 라이트, 버스전용차로 진입 시도 0번[카미경] | https://n.news.naver.com/article/293/0000093644?ntype=RANKING
+블로터 3위 | LG화학, 신용등급 'AA' 강등...이익창출력·재무구조 약화 | https://n.news.naver.com/article/293/0000093642?ntype=RANKING
+블로터 4위 | 정부, 증안펀드 18년 만에 투입하나…가동 준비 착수 | https://n.news.naver.com/article/293/0000093645?ntype=RANKING
+블로터 5위 | [현대차 L프로젝트] 판 짜는 임을교…'박민우·하러' 잇는 R&D 기조실장의 무게 | https://n.news.naver.com/article/293/0000093647?ntype=RANKING
+이코노미스트 1위 | ‘삼전닉스 4배 급증’ 한국 11월 수출도 새 역사 | https://n.news.naver.com/article/243/0000106045?ntype=RANKING
+이코노미스트 2위 | "삼전닉스 주주는 좋겠다"...삼전 4.4배·하닉 21배, 3Q 배당성향 ↑ | https://n.news.naver.com/article/243/0000106017?ntype=RANKING
+이코노미스트 3위 | '도둑인지, 동료인지' 기업 보안 담당자 10명 중 4명 "구분 어렵다" | https://n.news.naver.com/article/243/0000106039?ntype=RANKING
+이코노미스트 4위 | “손실 나면 직원 책임?”…대신증권 반대매매 완화에 노조 반발 | https://n.news.naver.com/article/243/0000106036?ntype=RANKING
+이코노미스트 5위 | "잔고 25만원" 도경완이 또...억대 외제차 시승에 '시끌', 얼마길래? | https://n.news.naver.com/article/243/0000106016?ntype=RANKING
+경기일보 1위 | “아빠가 챙겨준 조끼였는데”…수능장서 퇴실당한 수험생, 감독관도 울먹 | https://n.news.naver.com/article/666/0000133285?ntype=RANKING
+경기일보 2위 | 부부 모두 내도 배우자 사망하면 깎이는 국민연금...‘중복급여 조정’ 논란 | https://n.news.naver.com/article/666/0000133281?ntype=RANKING
+경기일보 3위 | 故 이진우 ‘브레인 악셀’ 중고가 폭등?…정가 30배 ‘사인본’까지 | https://n.news.naver.com/article/666/0000133280?ntype=RANKING
+경기일보 4위 | “883세대라더니 갑자기 4천 세대?”...분당 서현지구 4.5배 확대에 ‘들썩’ | https://n.news.naver.com/article/666/0000133277?ntype=RANKING
+경기일보 5위 | 전국법관대표회의 의장 "조희대 탄핵은 도 넘어…의결 땐 행동 나서야" | https://n.news.naver.com/article/666/0000133286?ntype=RANKING
+디지털데일리 1위 | “코스피 46% 추락했지만 지금은 팔 때 아니다”…한국투자증권, 증안펀드 효과 주목 | https://n.news.naver.com/article/138/0002249503?ntype=RANKING
+디지털데일리 2위 | “코스피 1만 간다더니 급선회”…유안타증권, 내년 4000~7300 전망 | https://n.news.naver.com/article/138/0002249501?ntype=RANKING
+디지털데일리 3위 | “美 반도체 10% 폭락에도”…코스피 2.27% 하락, 증안펀드 기대에 낙폭 축소 | https://n.news.naver.com/article/138/0002249515?ntype=RANKING
+디지털데일리 4위 | '블랙 먼데이' 막을 수 있을까…금융 당국 "증안펀드 대기, 불법 공매도 단속" | https://n.news.naver.com/article/138/0002249492?ntype=RANKING
+디지털데일리 5위 | "옷 사러 왔다가 요금제까지"…SKT 에어, 무신사 블프 첫 출격 | https://n.news.naver.com/article/138/0002249466?ntype=RANKING
+동행미디어 시대 1위 | "앨리스 황, 캄보디아 범죄조직과 연루"…엔비디아 칩 중국 밀반입 의혹 | https://n.news.naver.com/article/417/0001165221?ntype=RANKING
+동행미디어 시대 2위 | 가발쓰고 변장까지…'전자발찌 끊고 도주' 성범죄자 정영모 수배 | https://n.news.naver.com/article/417/0001165222?ntype=RANKING
+동행미디어 시대 3위 | "아빠가 입혀줬는데"…발열 조끼 때문에 수능장서 쫓겨난 수험생 | https://n.news.naver.com/article/417/0001165233?ntype=RANKING
+동행미디어 시대 4위 | 400만대 방어선 위태, 벼랑 앞 K자동차 | https://n.news.naver.com/article/417/0001165206?ntype=RANKING
+동행미디어 시대 5위 | 술 한두 잔도 몸과 운동 효과에 해로울까 [근거에 기반한 시대건강 120] ⑩ | https://n.news.naver.com/article/417/0001165205?ntype=RANKING
+주간동아 1위 | 대기업 입사 1년 만에 ‘하닉행’… 억대 성과급이 바꾼 커리어 공식 | https://n.news.naver.com/article/037/0000039196?ntype=RANKING
+주간동아 2위 | “10년간 이런 월세 오름세는 처음”… 서울 아파트 평균 월세 160만 원 시대 | https://n.news.naver.com/article/037/0000039195?ntype=RANKING
+주간동아 3위 | 과거 유럽에서 빵은 권력의 상징 | https://n.news.naver.com/article/037/0000039199?ntype=RANKING
+주간동아 4위 | 고립→중독→자살의 악순환, 쪼개진 행정으론 못 끊는다 | https://n.news.naver.com/article/037/0000039197?ntype=RANKING
+주간동아 5위 | 사람들이 진정 좋아하는 건 마음의 평화인가, 돈인가 | https://n.news.naver.com/article/037/0000039192?ntype=RANKING
+매경이코노미 1위 | “비싸다고 다 좋은 건 아니네”…보습크림 8종 비교해보니 | https://n.news.naver.com/article/024/0000109813?ntype=RANKING
+매경이코노미 2위 | [속보] 李대통령 지지율 37.3%로 2주 연속 상승…국힘 42.5%·민주 35.6% [리얼미터] | https://n.news.naver.com/article/024/0000109823?ntype=RANKING
+매경이코노미 3위 | [속보] 노동장관 “정년연장, 27일 여당서 결론 안 나면 정부안 발표” | https://n.news.naver.com/article/024/0000109815?ntype=RANKING
+매경이코노미 4위 | 7만전자·20만닉스 간다는 전문가의 경고 | https://n.news.naver.com/article/024/0000109814?ntype=RANKING
+매경이코노미 5위 | 13년 기다린 GTA6, 출시 하루 만에 매출 5조원 ‘대박’ | https://n.news.naver.com/article/024/0000109808?ntype=RANKING
+CJB청주방송 1위 | 건물 지하 보일러실서 '미라화 시신' 발견...경찰 "범죄 혐의점 낮아" | https://n.news.naver.com/article/655/0000033662?ntype=RANKING
+CJB청주방송 2위 | 김영훈 노동장관 "정년 연장, 여당 특위 결론 안나면 정부안 발표" | https://n.news.naver.com/article/655/0000033661?ntype=RANKING
 CJB청주방송 3위 | 젠슨 황 해임 결정타 "불륜보다 거짓말"...엔비디아 이사회 "신뢰 무너져" | https://n.news.naver.com/article/655/0000033654?ntype=RANKING
-CJB청주방송 4위 | 나경원 "주가 폭락인데...李 정권은 '대장동 사건' 변호" | https://n.news.naver.com/article/655/0000033656?ntype=RANKING
-CJB청주방송 5위 | "이진우 사망 안타까워...대중의 손가락질 지나쳐"...서울대 교수 일침 | https://n.news.naver.com/article/655/0000033642?ntype=RANKING
-주간동아 1위 | “10년간 이런 월세 오름세는 처음”… 서울 아파트 평균 월세 160만 원 시대 | https://n.news.naver.com/article/037/0000039195?ntype=RANKING
-주간동아 2위 | “서울 아파트값 오를 곳만 오른다… 일자리 접근성, 교통망, 신축이 핵심” | https://n.news.naver.com/article/037/0000039189?ntype=RANKING
-주간동아 3위 | “경험이 곧 콘텐츠 경쟁력”… 은퇴 후 카메라 드는 중장년 | https://n.news.naver.com/article/037/0000039190?ntype=RANKING
-주간동아 4위 | 커피 향 머금은 베트남 고원 도시, 달랏&#160; | https://n.news.naver.com/article/037/0000039194?ntype=RANKING
-주간동아 5위 | ‘역대 최대 109조 IPO’ 성공했지만… 앤스로픽도 꺾지 못한 AI 버블 의구심 | https://n.news.naver.com/article/037/0000039185?ntype=RANKING
-신동아 1위 | 대통령의 골프, 공보다 때를 봐야 한다 | https://n.news.naver.com/article/262/0000019876?ntype=RANKING
-신동아 2위 | 선 넘는 ‘공감 불가’ 정치인들, 강력한 페널티 절실 | https://n.news.naver.com/article/262/0000019875?ntype=RANKING
-신동아 3위 | 오세훈 무죄가 불붙인 보수통합론…그런데 누가 이끄나 | https://n.news.naver.com/article/262/0000019873?ntype=RANKING
-신동아 4위 | 대통령 억울함 풀다 총선 잃을라…민주당의 위험한 베팅 | https://n.news.naver.com/article/262/0000019872?ntype=RANKING
-신동아 5위 | “야! 너!” 대신 따뜻한 인사 나눈다, 삼호개발의 특별한 ‘원팀 캠페인’ | https://n.news.naver.com/article/262/0000019871?ntype=RANKING
-JIBS 1위 | “증거 없다” 사과한 김민석… 민주당원 1,101명, 대표 직무정지 신청 | https://n.news.naver.com/article/661/0000086874?ntype=RANKING
-JIBS 2위 | “판결 불만에 대법원장 탄핵?”… 변호사단체, 민주당에 ‘권한 남용’ 경고 | https://n.news.naver.com/article/661/0000086888?ntype=RANKING
-JIBS 3위 | 추미애 "조희대 탄핵, 정치적 유불리 계산할 때 아니.. 국민 다수가 상식적 이해" | https://n.news.naver.com/article/661/0000086887?ntype=RANKING
-JIBS 4위 | 장동혁, 李-대장동 겨냥 "검사가 인정할 정도면 무죄 받을텐데 왜 재판 안 받나" | https://n.news.naver.com/article/661/0000086878?ntype=RANKING
-JIBS 5위 | 일본인 61% "한국에 친근감".. 86% "중국에 친근감 못 느껴" | https://n.news.naver.com/article/661/0000086881?ntype=RANKING
-코리아중앙데일리 1위 | How a 'backdoor' joke about a Xiaomi phone opened the door to warmer Korea-China ties &#8212; and real progress | https://n.news.naver.com/article/640/0000097163?ntype=RANKING
-코리아중앙데일리 2위 | Republic of Korea Army shirts march into fashion as civilians join the outfit | https://n.news.naver.com/article/640/0000097154?ntype=RANKING
-코리아중앙데일리 3위 | From folklore to fairy tales: Six Christmas spots to get into the holiday spirit in Korea | https://n.news.naver.com/article/640/0000097153?ntype=RANKING
-코리아중앙데일리 4위 | DP formally adopts party-line position to pursue impeachment of chief justice | https://n.news.naver.com/article/640/0000097161?ntype=RANKING
-코리아중앙데일리 5위 | Korea's food giants sell more but earn less despite overseas success | https://n.news.naver.com/article/640/0000097155?ntype=RANKING
-여성신문 1위 | 수상하고 불온한 여자들, 패션 사진의 문법을 바꾸다 | https://n.news.naver.com/article/310/0000141936?ntype=RANKING
-여성신문 2위 | ‘AI 혼란’ 수능 끝 쉬어가는 연말... “OTT 뭐부터 볼까?” | https://n.news.naver.com/article/310/0000141933?ntype=RANKING
-여성신문 3위 | 법무부·성평등부·법원·여성단체 머리 맞댔다… 강간죄 개정 논의 | https://n.news.naver.com/article/310/0000141920?ntype=RANKING
-여성신문 4위 | 경부선 소정리역서 화물열차 탈선…새마을·무궁화 운행 중단 | https://n.news.naver.com/article/310/0000141929?ntype=RANKING
-여성신문 5위 | 트럼프 “젠슨황, 사과하고 복귀해야…미국은 두 번째 기회 주는 나라” | https://n.news.naver.com/article/310/0000141926?ntype=RANKING
-시사IN 1위 | 여수발 블랙코미디, 제목은 ‘돔구장 유치전’ [전국 인사이드] | https://n.news.naver.com/article/308/0000039007?ntype=RANKING
-시사IN 2위 | 생명 구하다 범죄자 취급··· 의료진 분노 이해하지만 [세상에 이런 법이] | https://n.news.naver.com/article/308/0000039008?ntype=RANKING
-시사IN 3위 | 상처를 받으면 어떠냐고 묻고 싶었습니다 [황정은·허태임 교환 일기] | https://n.news.naver.com/article/308/0000039010?ntype=RANKING
-시사IN 4위 | 정직한 과거들이 모여 기어코 미래가 되었다 [기자의 추천 책] | https://n.news.naver.com/article/308/0000039005?ntype=RANKING
-시사IN 5위 | 오늘 저녁 [이문재의 발견] | https://n.news.naver.com/article/308/0000039009?ntype=RANKING
-대구MBC 1위 | ① 열악한 대구 생활임금···"도시 위상과 안 맞아" | https://n.news.naver.com/article/657/0000057674?ntype=RANKING
-대구MBC 2위 | [심층] 2027학년도 수능 가채점 분석 “국어·사탐 쉬워, 수학·과탐 변별력 유지" 주말부터 논술 전형 | https://n.news.naver.com/article/657/0000057686?ntype=RANKING
-대구MBC 3위 | 이재명 대통령 "국가시험 전면 개편"…범정부 수능 부정행위 대응 TF 출범 | https://n.news.naver.com/article/657/0000057678?ntype=RANKING
-대구MBC 4위 | 외국인, 두 달 연속 국내 주식 팔고 채권 샀다···10월 18.6조 원 순회수 | https://n.news.naver.com/article/657/0000057688?ntype=RANKING
-대구MBC 5위 | [약손+]&#160;예방접종,&#160;바로 알고 맞나요?&#160;⑩독감 예방접종,&#160;매년 해야 하나?&#160; | https://n.news.naver.com/article/657/0000057691?ntype=RANKING
-더스쿠프 1위 | 나스닥 올해 상승분 반납…미 연준 "금리 더 올려야" | https://n.news.naver.com/article/665/0000008618?ntype=RANKING
-더스쿠프 2위 | 퇴직한 남편 먼저? 돈 버는 아내 먼저? 노후 준비에 순서 있을까 [재테크 Lab] | https://n.news.naver.com/article/665/0000008616?ntype=RANKING
-더스쿠프 3위 | 삼전닉스 무너지자 오천피 붕괴… '금리 변수'까지 만난 국장 반등할까 [주간 증시해설서] | https://n.news.naver.com/article/665/0000008613?ntype=RANKING
-더스쿠프 4위 | 역대급 IPO의 역설… 앤트로픽 상장 후 'AI 고점론' 왜 커졌나 | https://n.news.naver.com/article/665/0000008615?ntype=RANKING
-더스쿠프 5위 | 킥보드 부딪힌 뒤 "현금 합의 하시죠"…고의사고 의심될 땐 | https://n.news.naver.com/article/665/0000008610?ntype=RANKING
-디지털데일리 1위 | “5000선 붕괴가 끝 아니다?”…반도체 꺾이자 코스피 4000선도 위태 [증시레이더] | https://n.news.naver.com/article/138/0002249451?ntype=RANKING
-디지털데일리 2위 | [헬스&라이프] 제철 굴 먹고 '겨울 장염'?… 노로바이러스, 85도에서 1분 이상 익혀야 | https://n.news.naver.com/article/138/0002249438?ntype=RANKING
-디지털데일리 3위 | “부모님 모신 대가로 집 받았는데”…형제가 나눠 달라면? [DD집톡] | https://n.news.naver.com/article/138/0002249449?ntype=RANKING
-디지털데일리 4위 | 다시 불붙은 65세 정년 연장…기업이 풀어야 할 숙제인가 [취재수첩] | https://n.news.naver.com/article/138/0002249439?ntype=RANKING
-디지털데일리 5위 | 수학 난제 "리만 가설, AI가 증명 했다"…앤트로픽 수학자 "클로드와 가설 증명" | https://n.news.naver.com/article/138/0002249458?ntype=RANKING
-주간조선 1위 | 로또 2등이 한 곳서 무려 10장…5억원 당첨금 주인은 한 명? | https://n.news.naver.com/article/053/0000063248?ntype=RANKING
-주간조선 2위 | 나스닥 5.3% 폭락, 올해 상승분 다 날렸다…월요일이 두려운 개미들 | https://n.news.naver.com/article/053/0000063249?ntype=RANKING
-주간조선 3위 | 한동훈 "12월 3일 조희대 탄핵 꼭 하라…이젠 민주당이 내란 정당" | https://n.news.naver.com/article/053/0000063247?ntype=RANKING
-주간조선 4위 | 이진우, 사망 당일 새벽 집 찾아 짐 정리…"탈출 도와달라" 부탁도 | https://n.news.naver.com/article/053/0000063232?ntype=RANKING
-주간조선 5위 | "네 어머니가 널 낙태했어야"…젠슨 황, 직원들에 상습 폭언 의혹 | https://n.news.naver.com/article/053/0000063245?ntype=RANKING
-동행미디어 시대 1위 | "외투 타는 것도 모르고"…김민, 온몸으로 '고성 대형 산불' 막았다 | https://n.news.naver.com/article/417/0001165139?ntype=RANKING
-동행미디어 시대 2위 | "이진우 5년간 제대로 평가했다면?…시험 패러다임 바꿔야" | https://n.news.naver.com/article/417/0001165132?ntype=RANKING
-동행미디어 시대 3위 | 러·중·북·이란 뭉쳤다…글로벌 드론 전쟁에 휘말린 한반도 | https://n.news.naver.com/article/417/0001165133?ntype=RANKING
-동행미디어 시대 4위 | 이 대통령 "수능 부정행위 자수 땐 처벌 감경, 신고 건당 1억 포상" | https://n.news.naver.com/article/417/0001165150?ntype=RANKING
-동행미디어 시대 5위 | [오늘 날씨] 아침 최저기온 영하 9도…맑은 날씨 속 한파 | https://n.news.naver.com/article/417/0001165152?ntype=RANKING
-매경이코노미 1위 | 메가커피와 이디야의 ‘엇갈린 운명’ | https://n.news.naver.com/article/024/0000109800?ntype=RANKING
-매경이코노미 2위 | 건강하려고 달리는데 근육이 녹는다? [헬스] | https://n.news.naver.com/article/024/0000109802?ntype=RANKING
-매경이코노미 3위 | 성심당부터 김영모과자점까지…배민 앱으로 빵 주문한다 | https://n.news.naver.com/article/024/0000109797?ntype=RANKING
-매경이코노미 4위 | 당첨되면 무려 24억 차익…잠실 ‘로또 청약’ 떴다 | https://n.news.naver.com/article/024/0000109791?ntype=RANKING
-매경이코노미 5위 | [속보] 코레일 “22일 첫차부터 경부선 일반열차 운행 재개” | https://n.news.naver.com/article/024/0000109799?ntype=RANKING
-한경비즈니스 1위 | [속보]40대 마통 연체액 급증 | https://n.news.naver.com/article/050/0000113584?ntype=RANKING
-한경비즈니스 2위 | 삼성전자도 결국 멈췄다...중국 '초비상' | https://n.news.naver.com/article/050/0000113572?ntype=RANKING
-한경비즈니스 3위 | "손정의, SK하이닉스 1300조 인수 타진했었다" | https://n.news.naver.com/article/050/0000113577?ntype=RANKING
-한경비즈니스 4위 | 엔비디아 쓸어담더니...결국 '피눈물' | https://n.news.naver.com/article/050/0000113575?ntype=RANKING
-한경비즈니스 5위 | 가짜 흑자에 더 낸 세금 2370억…“현금 일시 환급 안 돼” [이승우의 판례 읽기] | https://n.news.naver.com/article/050/0000113583?ntype=RANKING
-한겨레21 1위 | [단독] 전관 천국, 휴게소… 납품대금 18억원 떼먹어도 ‘이상 없음’ | https://n.news.naver.com/article/036/0000054489?ntype=RANKING
-한겨레21 2위 | 대학입시 폐지가 최고의 민생정치다 | https://n.news.naver.com/article/036/0000054488?ntype=RANKING
-한겨레21 3위 | 수십억 빌려줘 놓고, 버스 굴릴 돈은 없다? | https://n.news.naver.com/article/036/0000054487?ntype=RANKING
-한겨레21 4위 | 병원도 외면하는 우리, 어디로 가나요 | https://n.news.naver.com/article/036/0000054486?ntype=RANKING
-한겨레21 5위 | 젠슨 황, 스캔들에서 게이트로… 이제 시작이다 | https://n.news.naver.com/article/036/0000054485?ntype=RANKING
-전주MBC 1위 | 전주고속버스터미널 매각설.. 전주시 "동향 파악 중" | https://n.news.naver.com/article/659/0000048881?ntype=RANKING
-전주MBC 2위 | 전북 인구, 향후 20년간 26만 명 넘게 줄 듯 | https://n.news.naver.com/article/659/0000048904?ntype=RANKING
-전주MBC 3위 | 전북, 미취업여성 중 경력보유여성 비율 줄어 | https://n.news.naver.com/article/659/0000048888?ntype=RANKING
-전주MBC 4위 | 李 대통령 긍정평가 40%..부정평가 49% [갤럽] | https://n.news.naver.com/article/659/0000048892?ntype=RANKING
-전주MBC 5위 | 권익위, 내년 1월까지 수능 부정행위 집중신고기간 운영 | https://n.news.naver.com/article/659/0000048908?ntype=RANKING
-기자협회보 1위 | 'TV조선 재승인 조작' 무죄에 항소… "실패 뻔한 억지" 비판 | https://n.news.naver.com/article/127/0000040097?ntype=RANKING
-기자협회보 2위 | 한덕수 '일부 무죄'… 한겨레 "봐주려 작정", 조선 "상식적" | https://n.news.naver.com/article/127/0000040094?ntype=RANKING
-기자협회보 3위 | 기협·장애인개발원 '장애인권 우수보도 기자상' 첫 선정 | https://n.news.naver.com/article/127/0000040096?ntype=RANKING
-기자협회보 4위 | 법원, 국제신문 회생계획 강제인가 | https://n.news.naver.com/article/127/0000040095?ntype=RANKING
-동아사이언스 1위 | 겨울철 머리카락 정전기, 린스로 잡을 수 있을까 | https://n.news.naver.com/article/584/0000040257?ntype=RANKING
-동아사이언스 2위 | 미리 본 전장의 미래…"우크라이나, 기관총 장착 무인로봇으로 반격" | https://n.news.naver.com/article/584/0000040259?ntype=RANKING
-동아사이언스 3위 | 250년 만에 제 이름 찾은 고양이 '틸카요'…신종 생물 발견 느는 이유 | https://n.news.naver.com/article/584/0000040254?ntype=RANKING
-동아사이언스 4위 | 블랙홀과 은하, 누가 먼저 생겼을까…초기 우주의 단서 | https://n.news.naver.com/article/584/0000040261?ntype=RANKING
-동아사이언스 5위 | 인간화한 쥐, 30년 걸리는 뇌질환 발병 1.5개월만에 재현 | https://n.news.naver.com/article/584/0000040243?ntype=RANKING
-주간경향 1위 | 출소 반 년만에 ‘7→2등급’…리트 만점자 고려대 입학도 미스터리 | https://n.news.naver.com/article/033/0000053549?ntype=RANKING
-주간경향 2위 | “수원 스타필드도 텅텅 빈다” 경기침체 징후 13가지?…실제 통계 살펴보니 | https://n.news.naver.com/article/033/0000053550?ntype=RANKING
-주간경향 3위 | 홍준표 “조희대 탄핵, 전두환이 김재규 판결 소수 의견 대법관 족치는 것 같아” | https://n.news.naver.com/article/033/0000053536?ntype=RANKING
-주간경향 4위 | “공개 사과만 6번, ‘폭주기관차’ 최민희 속전속결로 정리해야” | https://n.news.naver.com/article/033/0000053539?ntype=RANKING
-주간경향 5위 | 더 움켜쥐고 싶지만…놓아야 건너는 계절[렌즈로 본 세상] | https://n.news.naver.com/article/033/0000053551?ntype=RANKING
-이코노미스트 1위 | 남유정 '영끌' 고충 토로, 왜? "대출 빚 많아…서커스 돌아야 할 판" | https://n.news.naver.com/article/243/0000106000?ntype=RANKING
-이코노미스트 2위 | '프로포폴 혐의' 가인, 7년 만의 복귀…"혼자 지내기 너무 외로워" | https://n.news.naver.com/article/243/0000106005?ntype=RANKING
-이코노미스트 3위 | '7만전자·20만닉스' 여기서 더 떨어진다?…증권가 전망은 | https://n.news.naver.com/article/243/0000105995?ntype=RANKING
-이코노미스트 4위 | 무너진 주가, 무너진 일상…2040 덮친 '금융 우울증' | https://n.news.naver.com/article/243/0000106007?ntype=RANKING
-이코노미스트 5위 | 본업도 신사업도 적자…길 잃은 이호진의 ‘뉴 태광’ | https://n.news.naver.com/article/243/0000106009?ntype=RANKING
-일다 1위 | ‘딸깍’의 시대, 수제 영상을 한 땀 한 땀 만든 이유 | https://n.news.naver.com/article/007/0000008335?ntype=RANKING
+CJB청주방송 4위 | 청주 특례시 놓고 대립...'상생에 도움' vs '빨대효과' | https://n.news.naver.com/article/655/0000033663?ntype=RANKING
+CJB청주방송 5위 | 초등 음악실에 불 지른 20대 ‘징역 2년’...집유 두 달 만에 또 방화 | https://n.news.naver.com/article/655/0000033658?ntype=RANKING
+헬스조선 1위 | “자칫 췌장에 부담”… 의사가 경고한 ‘겨울 보양식’ 곰탕 | https://n.news.naver.com/article/346/0000119279?ntype=RANKING
+헬스조선 2위 | “암 위험 오른다” 내과 의사 경고… ‘밥상에서 당장 치워야 할’ 음식 | https://n.news.naver.com/article/346/0000119278?ntype=RANKING
+헬스조선 3위 | 65세 넘었다면, ‘무조건 다이어트’는 금물… “뱃살 먼저 따져라” | https://n.news.naver.com/article/346/0000119275?ntype=RANKING
+헬스조선 4위 | “헤르페스 진단 후 새로운 연인 만나기 부담”… 감염 사실 언제 알리나 | https://n.news.naver.com/article/346/0000119281?ntype=RANKING
+헬스조선 5위 | “식사 후 ‘한 조각’ 먹어보세요”… 입가심으로 딱인데, 심장에도 좋다네요 | https://n.news.naver.com/article/346/0000119270?ntype=RANKING
+SBS Biz 1위 | 코스피, 2.77% 하락한 4734.90에 개장…코스닥 1.7% 하락 | https://n.news.naver.com/article/374/0000545200?ntype=RANKING
+SBS Biz 2위 | 11월 1~20일 수출 774억달러로 두 배 증가…역대 최대 | https://n.news.naver.com/article/374/0000545201?ntype=RANKING
+SBS Biz 3위 | 삼전·하이닉스 프리마켓서 약 6% 급락…美 반도체 폭락 여파 | https://n.news.naver.com/article/374/0000545191?ntype=RANKING
+SBS Biz 4위 | 사별해서 연금 하나만…3.7만명은 내 연금 '0원' | https://n.news.naver.com/article/374/0000545174?ntype=RANKING
+SBS Biz 5위 | 커진 '검은 월요일' 공포에 18년 만에 증안펀드 꺼낼까? | https://n.news.naver.com/article/374/0000545167?ntype=RANKING
+조세일보 1위 | "2만2000원 책이 65만원?" 故 이진우, 사망 후 저서 가격 30배 폭등 | https://n.news.naver.com/article/123/0002394577?ntype=RANKING
+조세일보 2위 | 맞벌이 부부의 국민연금 '노후 함정'…배우자 사망하면 연금 70% 삭감 | https://n.news.naver.com/article/123/0002394579?ntype=RANKING
+조세일보 3위 | '검은 월요일' 공포에 떠는 증시...18년 만에 증안펀드 투입하나 | https://n.news.naver.com/article/123/0002394580?ntype=RANKING
+조세일보 4위 | 美재무 "엔비디아, 對중국 칩 판매 경위 답해야…준법감시 책임자 규명" | https://n.news.naver.com/article/123/0002394573?ntype=RANKING
+조세일보 5위 | 영하권 추위에 전국 비·눈…강원 최대 8㎝ 폭설 [날씨] | https://n.news.naver.com/article/123/0002394576?ntype=RANKING
+시사IN 1위 | 조작기소 특검법은 왜 이재명 대통령에게 독배인가 | https://n.news.naver.com/article/308/0000039013?ntype=RANKING
+시사IN 2위 | 광복 80년, 70년 만의 귀환 [포토IN] | https://n.news.naver.com/article/308/0000039012?ntype=RANKING
+시사IN 3위 | ‘콩GPT’ 오류, 탈모 건보, 촉법소년··· 생중계 국무회의의 그늘 | https://n.news.naver.com/article/308/0000039011?ntype=RANKING
+시사IN 4위 | 생명 구하다 범죄자 취급··· 의료진 분노 이해하지만 [세상에 이런 법이] | https://n.news.naver.com/article/308/0000039008?ntype=RANKING
+시사IN 5위 | 상처를 받으면 어떠냐고 묻고 싶었습니다 [황정은·허태임 교환 일기] | https://n.news.naver.com/article/308/0000039010?ntype=RANKING
+더팩트 1위 | 프리마켓부터 삼전닉스 폭락…증안펀드, '블랙먼데이' 막을까 | https://n.news.naver.com/article/629/0000554398?ntype=RANKING
+더팩트 2위 | '반장동혁' 표심 노리는 중진들…친한계와 '윈윈' 가능할까 | https://n.news.naver.com/article/629/0000554384?ntype=RANKING
+더팩트 3위 | 성년 된 이부진 사장 아들, 어머니 따라 '이(李)씨'로 바꿨다 | https://n.news.naver.com/article/629/0000554430?ntype=RANKING
+더팩트 4위 | "취업·실습 바쁜데 매주 대면 출석"…이화여대 '의무 채플' 개선 요구 확산 | https://n.news.naver.com/article/629/0000554420?ntype=RANKING
+더팩트 5위 | 증안펀드 카드에도 코스피 2.77%↓…4700선까지 추락 | https://n.news.naver.com/article/629/0000554412?ntype=RANKING
+한겨레21 1위 | 수십억 빌려줘 놓고, 버스 굴릴 돈은 없다? | https://n.news.naver.com/article/036/0000054487?ntype=RANKING
+한겨레21 2위 | 병원도 외면하는 우리, 어디로 가나요 | https://n.news.naver.com/article/036/0000054486?ntype=RANKING
+한겨레21 3위 | [단독] 전관 천국, 휴게소… 납품대금 18억원 떼먹어도 ‘이상 없음’ | https://n.news.naver.com/article/036/0000054489?ntype=RANKING
+한겨레21 4위 | 대학입시 폐지가 최고의 민생정치다 | https://n.news.naver.com/article/036/0000054488?ntype=RANKING
+한겨레21 5위 | 2026 원전 공론화위, ‘답정너’를 거부한다 | https://n.news.naver.com/article/036/0000054492?ntype=RANKING
+코리아헤럴드 1위 | 'Chiikawa' becomes Korea's most-watched animated film of 2026 | https://n.news.naver.com/article/044/0000292517?ntype=RANKING
+코리아헤럴드 2위 | Trump-Kim summit still possible despite APEC setback, but major hurdles persist: analysts | https://n.news.naver.com/article/044/0000292510?ntype=RANKING
+코리아헤럴드 3위 | Twice's Dahyun faces online insults over appearance | https://n.news.naver.com/article/044/0000292514?ntype=RANKING
+코리아헤럴드 4위 | In South Korea, 'Swedish massage' can mean more than a massage | https://n.news.naver.com/article/044/0000292516?ntype=RANKING
+코리아헤럴드 5위 | Young adults in need of care are up to 9 times as likely to use tranquilizers: report | https://n.news.naver.com/article/044/0000292498?ntype=RANKING
+여성신문 1위 | 창원 아파트서 5개월 아기 안고 추락 엄마 사망...아기는 살아 | https://n.news.naver.com/article/310/0000141948?ntype=RANKING
+여성신문 2위 | 한국 여성 임금, 남성의 72%...임금 격차 OECD 최고 | https://n.news.naver.com/article/310/0000141949?ntype=RANKING
+여성신문 3위 | [세계는 지금] 심리가 지배한 뉴욕증시 폭락장... AI 시장 검증 중 | https://n.news.naver.com/article/310/0000141950?ntype=RANKING
+여성신문 4위 | 미 민주 하원의석 최소 258석 확보... 34년 만에 최대 | https://n.news.naver.com/article/310/0000141946?ntype=RANKING
+여성신문 5위 | ‘AI 늑장 대응’ 비판에 최교진 교육부 장관 사의... 이 대통령, 사의 즉각 수락 | https://n.news.naver.com/article/310/0000141941?ntype=RANKING
+코리아중앙데일리 1위 | Rain and snow to sweep Korea on Monday, raising icy road risks for commuters | https://n.news.naver.com/article/640/0000097176?ntype=RANKING
+코리아중앙데일리 2위 | Trump sought Kim summit before Asia trip, but North Korea’s conditions blocked progress: Report | https://n.news.naver.com/article/640/0000097179?ntype=RANKING
+코리아중앙데일리 3위 | DP presses chief justice impeachment as budget deadline, backlash fears complicate timing | https://n.news.naver.com/article/640/0000097182?ntype=RANKING
+코리아중앙데일리 4위 | North Korean ‘coast guard’ ship spotted near Yellow Sea border for first time | https://n.news.naver.com/article/640/0000097184?ntype=RANKING
+코리아중앙데일리 5위 | In Seoul’s daytime underground, older Koreans seek intimacy with few safeguards | https://n.news.naver.com/article/640/0000097186?ntype=RANKING
+월간 산 1위 | 정상급 여성 트레일러너 잇따라 사망 | https://n.news.naver.com/article/094/0000013964?ntype=RANKING
+월간 산 2위 | 산티아고처럼…짐 날라주는 서비스도 [동서트레일 시범개방] | https://n.news.naver.com/article/094/0000013966?ntype=RANKING
+월간 산 3위 | "100% 예약제로…지역경제에도 활력소 되길" [동서트레일 시범개방] | https://n.news.naver.com/article/094/0000013965?ntype=RANKING
+더스쿠프 1위 | 집주소·카드번호·전기료까지 털렸다…한전 152만명 개인정보 유출 | https://n.news.naver.com/article/665/0000008627?ntype=RANKING
+더스쿠프 2위 | [속보] 코스피지수 4734.90 장 시작… '검은 월요일' 현실화할까 | https://n.news.naver.com/article/665/0000008628?ntype=RANKING
+더스쿠프 3위 | 강남3구·마용성 식는데 성북·중랑은 상승… 엇갈린 아파트값이 말하는 것 [주말 Q&A] | https://n.news.naver.com/article/665/0000008623?ntype=RANKING
+더스쿠프 4위 | 마라톤 러너 뜻밖의 답변… 89% '도로통제 대회' 축소 찬성 [서베이 행간읽기] | https://n.news.naver.com/article/665/0000008626?ntype=RANKING
+더스쿠프 5위 | 퇴직한 남편 먼저? 돈 버는 아내 먼저? 노후 준비에 순서 있을까 [재테크 Lab] | https://n.news.naver.com/article/665/0000008616?ntype=RANKING
+전주MBC 1위 | "진짜 평화롭습니다(?)".. 전주 시내버스 풍자 영상 화제 | https://n.news.naver.com/article/659/0000048918?ntype=RANKING
+전주MBC 2위 | 10곳 중 3곳 빈 '마트형 전통시장'.. "밑 빠진 독에 물 붓기?" | https://n.news.naver.com/article/659/0000048919?ntype=RANKING
+전주MBC 3위 | "남아도는 학교우유급식 예산".. 전주에서만 매년 수억 원 | https://n.news.naver.com/article/659/0000048917?ntype=RANKING
+전주MBC 4위 | 아중호수도서관 공사 관련 5억대 소송.. "전주시 의견수렴 부실" | https://n.news.naver.com/article/659/0000048914?ntype=RANKING
+전주MBC 5위 | 전북 인구, 향후 20년간 26만 명 넘게 줄 듯 | https://n.news.naver.com/article/659/0000048904?ntype=RANKING
+주간조선 1위 | "리트 만점자에 보험사기 당할 뻔"…9년 전 경험담 등장 | https://n.news.naver.com/article/053/0000063268?ntype=RANKING
+주간조선 2위 | "환불해 달라"던 책이 25만원?…리트 만점자 사망 후 벌어진 일 | https://n.news.naver.com/article/053/0000063277?ntype=RANKING
+주간조선 3위 | 5개월 아기 안고 추락한 40대 엄마 숨져…아기는 기적적 생존 | https://n.news.naver.com/article/053/0000063272?ntype=RANKING
+주간조선 4위 | '검은 월요일' 공포에 긴급 대응…18년 만에 증시안정펀드 가동 준비 | https://n.news.naver.com/article/053/0000063270?ntype=RANKING
+주간조선 5위 | "코로나 때보다 힘들다" 헬스장 곡소리…돈 몰리는 곳 따로 있다 | https://n.news.naver.com/article/053/0000063276?ntype=RANKING
+주간경향 1위 | 동네의사는 무엇으로 사는가…‘의료의 빈자리’ 꿋꿋이 메우는 사람들 | https://n.news.naver.com/article/033/0000053573?ntype=RANKING
+주간경향 2위 | “열차 감시원 빼면 혼자 선로에”…목숨 걸린 철도노동자들, 총파업하는 이유 | https://n.news.naver.com/article/033/0000053577?ntype=RANKING
+주간경향 3위 | 민주 ‘조희대 탄핵’에, 박수 터진 김어준 방송 “우리가 맨날 조져서 그런 거야” | https://n.news.naver.com/article/033/0000053570?ntype=RANKING
+주간경향 4위 | 이 대통령 ‘대장동 배임’ 또 반박, “업자들에 1100억원 추가 부담시켜” | https://n.news.naver.com/article/033/0000053569?ntype=RANKING
+주간경향 5위 | ‘순방 외유’ 비판에, 이 대통령 “돼지 눈에는 돼지만···치아 흔들리고 코피 터져” | https://n.news.naver.com/article/033/0000053571?ntype=RANKING
+국제신문 1위 | 美 민주당, 하원 최소 258석 확보…트럼프 견제할 거대 야당 탄생 | https://n.news.naver.com/article/658/0000161958?ntype=RANKING
+국제신문 2위 | [속보] 이 대통령 지지율 소폭 오른 37.3%…민주 35.6%국힘 42.5% | https://n.news.naver.com/article/658/0000161961?ntype=RANKING
+국제신문 3위 | 스페인판 산복도로 곳곳 승강기…주민 활동반경 넓혔다 | https://n.news.naver.com/article/658/0000161923?ntype=RANKING
+국제신문 4위 | “부산 미래 팔아넘긴 죄” 북항 비리 ‘몸통’ 징역 15년 구형 | https://n.news.naver.com/article/658/0000161917?ntype=RANKING
+국제신문 5위 | 초등생 의붓딸들에 ‘나쁜손’…7년간 성폭행 계부 징역 35년 | https://n.news.naver.com/article/658/0000161916?ntype=RANKING
+동아사이언스 1위 | 발바닥 압력, 암세포 전이에 영향 미쳐 | https://n.news.naver.com/article/584/0000040265?ntype=RANKING
+동아사이언스 2위 | "AI '클로드', 167년 된 수학계 최대 난제 '리만 가설' 증명" | https://n.news.naver.com/article/584/0000040263?ntype=RANKING
+동아사이언스 3위 | 지름 2m '두 번째 달' 잠시 머문다…12월 초까지 지구 공전 | https://n.news.naver.com/article/584/0000040267?ntype=RANKING
+동아사이언스 4위 | 해외 의존 반도체 핵심 장비 '펄스 전원' 국산화 | https://n.news.naver.com/article/584/0000040264?ntype=RANKING
+동아사이언스 5위 | 겨울철 머리카락 정전기, 린스로 잡을 수 있을까 | https://n.news.naver.com/article/584/0000040257?ntype=RANKING
+신동아 1위 | “최 씨 측 자극할까 자제했는데…그들이 동업 정신 무너뜨렸다” | https://n.news.naver.com/article/262/0000019879?ntype=RANKING
+신동아 2위 | 대통령의 골프, 공보다 때를 봐야 한다 | https://n.news.naver.com/article/262/0000019876?ntype=RANKING
+신동아 3위 | KOTRA가 제시하는 수출기업 ESG 생존 전략 | https://n.news.naver.com/article/262/0000019877?ntype=RANKING
+신동아 4위 | [신동아 만평 ‘안마봉’] 젠슨 황이 불러온 먹구름 | https://n.news.naver.com/article/262/0000019878?ntype=RANKING
+신동아 5위 | 선 넘는 ‘공감 불가’ 정치인들, 강력한 페널티 절실 | https://n.news.naver.com/article/262/0000019875?ntype=RANKING
+일다 1위 | 스마트폰을 빼앗으면 문제가 해결됩니까? | https://n.news.naver.com/article/007/0000008337?ntype=RANKING
 일다 2위 | Korea Has Lowered World Standard for Women’s Health Rights | https://n.news.naver.com/article/007/0000008336?ntype=RANKING
-국제신문 1위 | [속보]'우리 잠깐 같이 돌까?' CNN "12월까지 지구에 두번째 달 생겨" | https://n.news.naver.com/article/658/0000161864?ntype=RANKING
-국제신문 2위 | [속보] “논술 보러 가야 하는데 KTX 매진” 수험생들 ‘발 동동’ | https://n.news.naver.com/article/658/0000161845?ntype=RANKING
-국제신문 3위 | [속보] 리트 만점자, 사망 이틀전 집주인에 “탈출 도와달라” | https://n.news.naver.com/article/658/0000161837?ntype=RANKING
-국제신문 4위 | [속보] 인도네시아 딜리 동북동쪽 바다서 규모 6.8 지진 | https://n.news.naver.com/article/658/0000161859?ntype=RANKING
-국제신문 5위 | 우연의 일치일까…세무사 시험 만점 받은 AI “같은 시기 고득점자도 급증” | https://n.news.naver.com/article/658/0000161799?ntype=RANKING
-중앙SUNDAY 1위 | [오늘의 운세] 11월 22일 | https://n.news.naver.com/article/353/0000057313?ntype=RANKING
-중앙SUNDAY 2위 | ‘침묵의 암’서 손쓸 수 있는 암으로…‘생존 선택지’ 넓어졌다 | https://n.news.naver.com/article/353/0000057307?ntype=RANKING
-중앙SUNDAY 3위 | 특검도 수긍한 판결…민주당선 탄핵 당론 | https://n.news.naver.com/article/353/0000057355?ntype=RANKING
-중앙SUNDAY 4위 | 월 소득 519만원 초과 땐 국민연금 개시 미루세요 | https://n.news.naver.com/article/353/0000057337?ntype=RANKING
-중앙SUNDAY 5위 | “개인주의 심한 프랑스, 내 연금만 챙기려 해 시위 난리굿” | https://n.news.naver.com/article/353/0000057309?ntype=RANKING
-레이디경향 1위 | ‘번쩍번쩍’ 촌스럽다고?…광택 가구 유행 다시 돌아왔다 | https://n.news.naver.com/article/145/0000024427?ntype=RANKING
-레이디경향 2위 | 남은 치킨, 전자레인지에 돌리지 마세요… 바삭함은 살리고 누린내는 줄이려면 | https://n.news.naver.com/article/145/0000024425?ntype=RANKING
-레이디경향 3위 | 겨울철 난방비 절약법…영국인의 ‘오후 4시’ 규칙이란? | https://n.news.naver.com/article/145/0000024426?ntype=RANKING
-레이디경향 4위 | 세탁기에 다 된 빨래, 깜빡했다면…다시 빨아야 할까? | https://n.news.naver.com/article/145/0000024424?ntype=RANKING
+JIBS 1위 | 이자 뛰고 주가 꺾이자...40대 '마이너스통장' 연체 82% 폭증 | https://n.news.naver.com/article/661/0000086910?ntype=RANKING
+JIBS 2위 | “탄핵 의결 땐 법관도 행동”… 조희대 거취 놓고 집단 대응 시사 | https://n.news.naver.com/article/661/0000086932?ntype=RANKING
+JIBS 3위 | 한라봉 수류탄에 감귤 총탄까지...액션 영화로 만들어진 '제주 감귤' | https://n.news.naver.com/article/661/0000086912?ntype=RANKING
+JIBS 4위 | 李 지지율 2주 연속 올라 37.3%.. 민주 35.6%·국힘 42.5% | https://n.news.naver.com/article/661/0000086933?ntype=RANKING
+JIBS 5위 | "담임 병가 잦다" 단톡방 비판...학부모 4명 명예훼손 '무죄' | https://n.news.naver.com/article/661/0000086907?ntype=RANKING
+레이디경향 1위 | “춥다고 방심했다” 겨울철 집 안 세균 배양소 6곳은? | https://n.news.naver.com/article/145/0000024429?ntype=RANKING
+레이디경향 2위 | 이케아가 고른 2027년의 색…‘무화과색’에 주목하는 이유 | https://n.news.naver.com/article/145/0000024428?ntype=RANKING
+레이디경향 3위 | 인도 점성술 ‘베딕’으로 보는 [주간 별자리 운세]…11월 넷째 주 | https://n.news.naver.com/article/145/0000024430?ntype=RANKING
+레이디경향 4위 | ‘번쩍번쩍’ 촌스럽다고?…광택 가구 유행 다시 돌아왔다 | https://n.news.naver.com/article/145/0000024427?ntype=RANKING
 
-### 네이트 많이 본 뉴스 - 전체 (17개)
-1위 | '47세' 성시경, 22살 연하 채령에 '추파' 논란…"아빠뻘이 왜 그럴까" | https://news.nate.com/view/20261122n01587
-2위 | '서비스용 로또 안 준다고 식당 칼부림'…무기징역→45년 감형 | https://news.nate.com/view/20261122n01638
-3위 | "아빠도 디카페인 좋아했구나?" 50대 아저씨들 푹 빠졌다…구매액 131% 급... | https://news.nate.com/view/20261122n01586
-4위 | "담임이 100일 넘게 쉬었다고?"…학부모 단톡방서 벌어진 일 | https://news.nate.com/view/20261122n02273
-5위 | [소셜＋] "여전히 4개에 1천원?"…SNS 타고 입소문 난 '초저가' 붕어빵집 | https://news.nate.com/view/20261122n01263
-6위 | "'리트 만점' 이진우, 양극성 장애·과대망상 가능성 있어"…전문가 분석 ... | https://news.nate.com/view/20261122n01049
-7위 | 국민배우·베스트셀러 작가 몰락하나…영화 촬영 도중 집단 성폭력 혐의 수... | https://news.nate.com/view/20261121n07440
-8위 | "대방어를 먹어야 겨울이지"…맛없어도 비싸도 일단 먹습니다, '제철코어' ... | https://news.nate.com/view/20261122n01670
-11위 | "뭐야, 한국 거 한번 써보니 못 끊겠네"…미국서 재구매율 48% 찍은 'K-뷰... | https://news.nate.com/view/20261121n05490
-13위 | 블랙컴뱃 검정 대표가 말한 추성훈의 비하인드…"사실 고기 써는 것도 힘들... | https://news.nate.com/view/20261122n02135
-15위 | 걸그룹 NMIXX 해원을 닮은 치어리더 김보미 '귀여운 고양이' [치얼UP영... | https://news.nate.com/view/20261122n02378
-17위 | "아빠가 저번에 졌다" 추성훈, 사랑이가 울며 지켜본 은퇴전서 당당한 판정... | https://news.nate.com/view/20261122n01623
-18위 | 엔진 화재 경고로 비상 착륙…'한국인 포함' 전원 무사 대피 | https://news.nate.com/view/20261121n10085
-22위 | "남는 장사 아냐?" 치킨 3만원, 사장님이 왜 울어?…배달 치킨값의 비밀 | https://news.nate.com/view/20261122n01649
-25위 | 5만원 받고 "촉감 이상해"…딱 걸린 남성이 찢어버린 돈 정체 | https://news.nate.com/view/20261122n01384
-42위 | "출소 반년 만에 수능 1등급?"…이진우, '찢어진 유품' 의미는 | https://news.nate.com/view/20261121n06699
-50위 | 정말로 온천 물에 익혀 먹었던 日 '온천 달걀' [맛있는 이야기] | https://news.nate.com/view/20261122n01743
+### 네이트 많이 본 뉴스 - 전체 (21개)
+1위 | "아빠가 입혀준 발열 조끼 때문에"…수능장서 쫓겨난 수험생, 감독관도... | https://news.nate.com/view/20261123n01031
+2위 | 李대통령 지지율 0.9%P 오른 37.3%…2주 연속 상승[아경-리얼미터 여론조... | https://news.nate.com/view/20261123n01907
+3위 | "남성 100만원 벌 때 여성은 72만원"…한국의 씁쓸한 현실 | https://news.nate.com/view/20261123n02403
+4위 | "치킨 3만원인데 남는 게 없다고?"…사장님들 주머니 터는 배달앱의 비밀 | https://news.nate.com/view/20261123n00988
+5위 | "이종석 국정원장 교체 검토, 후임 강금실" 보도…靑 "확인 어렵다" | https://news.nate.com/view/20261123n04754
+6위 | 이광수♥이선빈, 4개월 간격으로 같은 곳에…상하이 시계탑 앞 포착 | https://news.nate.com/view/20261123n02420
+7위 | "잘 놀고 가세요" 길 알려줬을 뿐인데…중국 학생들이 건넨 '순금' 선물 | https://news.nate.com/view/20261123n06699
+8위 | "인스타엔 호캉스, 현실은 집콕"…2030의 진짜 일상 | https://news.nate.com/view/20261123n01013
+9위 | 서울대 간 이부진 아들, 성인 되고 어머니 성으로 바꿨다 | https://news.nate.com/view/20261123n06073
+10위 | [기고] 딸 사랑이와 약속 지킨 추성훈 | https://news.nate.com/view/20261123n04763
+12위 | 父영정사진 품고 母손잡고…추성훈, 진짜 '상남자'의 은퇴법 "영원한 섹시... | https://news.nate.com/view/20261123n03051
+13위 | 강간만 무려 11건…패럴림픽 銀메달리스트 충격 행각에 영국이 놀랐다! 목 ... | https://news.nate.com/view/20261123n00532
+16위 | "추풍낙엽 같은 하락" 코스피, 3%대 하락…17만전자·100만닉스로 주저앉아 | https://news.nate.com/view/20261123n07450
+19위 | 코스피 2∼3% 하락 4,600대로 밀려…코스닥도 1%대↓(종합) | https://news.nate.com/view/20261123n07184
+23위 | 코로나 때보다 더 빠진 코스피…외국인 '놀이터' 공매도 금지론 확산 | https://news.nate.com/view/20261123n01997
+27위 | "11월 8일 직접 만났다"…故이진우 사인 담긴 책 '20만원'에 나와 | https://news.nate.com/view/20261123n03116
+28위 | '한화에서 ML 갑니다!' 노시환 초대박…무려 10개 구단 추천 터졌다→'9일... | https://news.nate.com/view/20261123n00493
+31위 | "정가 2만원대인데 초판본 28만원"…웃돈 붙은 이진우 '브레인 악셀' 무슨 ... | https://news.nate.com/view/20261123n03754
+33위 | 만취 여성 집단 성폭행…녹취록에 드러난 '브라질 축구 스타'의 민낯[뉴스... | https://news.nate.com/view/20261123n01870
+35위 | "잘 돌봐달라"…당진서 쪽지와 발견돼 덴마크로 입양된 이희정씨 | https://news.nate.com/view/20261123n02676
+42위 | KIA에 가장 필요한 FA는 원태인…이런 선수 앞으로 안 나올텐데, 최소 2... | https://news.nate.com/view/20261123n00622
 
-### 네이트 많이 본 뉴스 - 정치 (10개)
-1위 | 李 "수능 부정행위 포상금 건당 '최소' 1억…행위자 수만큼 가산" | https://news.nate.com/view/20261121n07545
-2위 | 이 대통령 "신고 포상금, 최대 1억 아닌 최소 1억 원" | https://news.nate.com/view/20261121n10239
-3위 | "전문성" vs "예산 낭비"…2천억 들인 AI 교육 두고 '팽팽' | https://news.nate.com/view/20261121n10363
-4위 | 종로학원, 2027 정시모집 배치참고표 | https://news.nate.com/view/20261121n04325
-5위 | 한동훈 "與, 12·3에 무르지 말고 대법원장 탄핵 하라…모두 감옥 갈 것" | https://news.nate.com/view/20261121n09344
-8위 | '취임 100일' 김민석…당정관계 안정에도 내부통합·지지율 숙제 | https://news.nate.com/view/20261122n01393
-9위 | 배현진 징계부터 추경호 무죄까지…다시 '한동훈 복당'으로 갈라진 국힘 | https://news.nate.com/view/20261122n01940
-10위 | 수능 끝, 논술시험 | https://news.nate.com/view/20261121n07161
-17위 | "12월 3일 기점 탄핵안 발의"…"조희대 지킬 것" | https://news.nate.com/view/20261121n10308
-18위 | 추미애 "조희대 탄핵 즉각 실행해야…정치적 유불리 따질 때 아냐" | https://news.nate.com/view/20261121n10091
+### 네이트 많이 본 뉴스 - 정치 (19개)
+1위 | 李대통령 지지율 0.9%P 오른 37.3%…2주 연속 상승[아경-리얼미터 여... | https://news.nate.com/view/20261123n01907
+3위 | 자격증 불법대여, 빌린 업체도 등록취소…30일까지 자진신고 받는다 | https://news.nate.com/view/20261122n05940
+4위 | 김민석 취임 100일, 지지율 10%p 올린다더니 8%p 떨어졌다 | https://news.nate.com/view/20261123n00378
+6위 | 군무원 이탈 가장 큰 이유는…'주거 미지원' 격오지 군무원 주거지원 확대 ... | https://news.nate.com/view/20261122n10246
+7위 | 사이렌 울리자 "적 포탄 낙하, 사격 준비"…밤낮 잊은 연평부대 | https://news.nate.com/view/20261123n01053
+9위 | "전 못할 것 같습니다…나이가 있어서" 최교진 교육장관 논란 발언은? | https://news.nate.com/view/20261122n06940
+10위 | 주말에도 시장 방문한 李…"생배추죠?" "단감 맛있네" 소통 | https://news.nate.com/view/20261122n11001
+11위 | 최교진, 수능 부정 무사안일 대처에 '나이' 발언 겹쳐 결국 하차 | https://news.nate.com/view/20261122n14363
+16위 | 나라 살림 93조 늘었는데…저임금 노동자·저소득 청년·취약 아동의 몫은?... | https://news.nate.com/view/20261123n00664
+17위 | 부산시, 트립닷컴 그룹 '올해의 전략적 협력 목적지상' 수상 | https://news.nate.com/view/20261123n03250
+20위 | 청사 향하는 김종철 경찰청장 | https://news.nate.com/view/20261123n07718
+21위 | 수도권주거혁신포럼, 이재명 정부 세법개정안에 대한 입장 발표 기자회견 | https://news.nate.com/view/20261123n07080
+22위 | 이 대통령 지지율 37.3%, 2주 연속 상승…외교 성과 속 국내 악재는 부담 | https://news.nate.com/view/20261123n06288
+23위 | VOA "北 김주애 '고가'스키 장비…유럽 제조사들 '북한과 거래 없어'" | https://news.nate.com/view/20261123n07952
+24위 | 수도권주거혁신포럼, 정부 세법개정안 관련 입장발표 | https://news.nate.com/view/20261123n07843
+25위 | 李대통령, '대장동 의혹' 또 반박…"업자와 결탁한 시장 아냐" | https://news.nate.com/view/20261122n12695
+26위 | 최고위원회의 참석한 김민석 대표 | https://news.nate.com/view/20261123n07614
+27위 | 발언하는 정점식 원내대표 | https://news.nate.com/view/20261123n06616
+29위 | 국힘 "조희대 탄핵은 깡통 탄핵…李 재판 재개 마중물 될 것" | https://news.nate.com/view/20261123n07957
 
-### 네이트 많이 본 뉴스 - 경제 (16개)
-1위 | "일본 가서 샀으면 큰일 날 뻔"…명품 30만원 싸게 산 비결 [박수림의 ... | https://news.nate.com/view/20261122n01898
-2위 | "남는 장사 아냐?" 치킨 3만원, 사장님이 왜 울어?…배달 치킨값의 비밀 | https://news.nate.com/view/20261122n01649
-3위 | "시세보다 5억싸다" 영등포자이디그니티 보류지 2억 낮춰 23억에 재매각 [... | https://news.nate.com/view/20261121n04746
-4위 | 사대문 안 첫 에피트…서대문역 초역세권 '경희궁 에피트' 가보니[TF현장] | https://news.nate.com/view/20261122n00054
-5위 | "30대가 무슨 돈으로 12억을…" 고가주택 보유자 70% 급증 | https://news.nate.com/view/20261122n01869
-6위 | 1만원이면 천국이 따로 없다…2030 홀린 뜻밖의 명소 [권 기자의 내돈내산] | https://news.nate.com/view/20261122n01297
-7위 | "출연료 다 잃었다"…월요일 무서운 개미들 '근로소득 파이팅' | https://news.nate.com/view/20261121n07565
-8위 | 삼전닉스 떠나고 삼기엘렉 온다?…'왕좌 교체' 시나리오 봤더니[주末머니] | https://news.nate.com/view/20261121n09576
-9위 | 쏘렌토값에도 이젠 중국차?…한국서 누가 샀나, 돈없는 2030 오빠 아닌 405... | https://news.nate.com/view/20261121n10777
-13위 | '검은 월요일' 될라 개미들 벌벌 떠는데…골드만의 '서늘한 전망' | https://news.nate.com/view/20261122n01527
-16위 | [메디컬아시아 2026]심장·뇌혈관 부문상 | https://news.nate.com/view/20261121n06936
-18위 | "1억 넣었는데 1800만 원 된다고?"…'7만전자·20만닉스' 섬뜩한 폭락 경고... | https://news.nate.com/view/20261121n06442
-19위 | "20억 넘겠어?" 비웃다가 4억 날렸다…폭락만 기다린다 '한숨' [부동산 아... | https://news.nate.com/view/20261121n06431
-20위 | "아픈 사람도 가입된다더니"…보험금 5500만원 주고 유족 고소한 보험사 [... | https://news.nate.com/view/20261121n09822
-22위 | "서울 무주택자, 결국 경기도로 쫓겨날 것"…부동산 전문가의 경고 | https://news.nate.com/view/20261121n10573
-25위 | 비트코인 7900만원대로 추락…하루 새 5%↓, 6만달러 저항선 붕괴 | https://news.nate.com/view/20261121n04725
+### 네이트 많이 본 뉴스 - 경제 (13개)
+1위 | "남성 100만원 벌 때 여성은 72만원"…한국의 씁쓸한 현실 | https://news.nate.com/view/20261123n02403
+2위 | 5000만원 주고 산 제주 땅이 78만원…임예진, 14년 방치한 포르쉐도 '곰팡... | https://news.nate.com/view/20261123n01788
+3위 | 은퇴 후 무너지는 중산층…노후 붕괴 부르는 '5가지 행동' | https://news.nate.com/view/20261122n14922
+5위 | "6개월 지나도 안 썩는다"…지하철역 '중국산 1000원빵' 논란 | https://news.nate.com/view/20261122n07366
+6위 | 코스피, 10개월 전으로 회귀…5000선 복귀 조건은? | https://news.nate.com/view/20261123n01874
+7위 | "K할매 패션인데"…카리나도 입더니 외국인까지 푹 빠졌다 | https://news.nate.com/view/20261122n09587
+19위 | F4 긴급 회의…18년 만에 '증안펀드' 투입 준비 | https://news.nate.com/view/20261122n13929
+25위 | '전세금+3억'이면 샀던 집, 올해는 6억 더 줘야 산다 | https://news.nate.com/view/20261123n00271
+26위 | "지갑 어디 뒀더라? 약 먹었던가"…삼성 AI가 기억해 답해준다 | https://news.nate.com/view/20261123n03083
+27위 | 셀트리온제약, 차세대 ADC 기술 공개…"약물 접합 정밀도 높인다" | https://news.nate.com/view/20261123n07079
+28위 | OK금융그룹, 'AI Native' 채용형 인턴 모집…40명 내외 선발 | https://news.nate.com/view/20261123n07464
+29위 | NH농협은행, 농어촌 아동 놀이·학습공간 조성…진주서 5호 완공 | https://news.nate.com/view/20261123n07840
+30위 | "내일 블랙 먼데이 막자"…정부, 증안펀드 18년만에 투입 준비 | https://news.nate.com/view/20261122n14254
 
 ### 다음 실시간 트렌드 키워드 (15개)
-1위 | 은가은 모녀 갈등
-2위 | 추성훈 은퇴전
-3위 | 1251회 로또 당첨 번호
-4위 | 반 고흐 미술관 메뉴 삭제
-5위 | 여순사건 유족 국가배상
-6위 | 경비지도사
-7위 | 은지원 도플갱어
-8위 | 소설
-9위 | 브라이언 환희 컴백
-10위 | 연준 추가 긴축 우려
-11위 | 강승원 재혼
-12위 | 주지훈 터닝 포인트
-13위 | 수원 스타필드
-14위 | 인천 마라톤 대회
-15위 | 푸른길
+1위 | 에이티즈 빌보드 200 1위
+2위 | 오지헌 딸 공개
+3위 | 김정근 배우 도전 문무
+4위 | 김원효 트랜스젠더 바
+5위 | 증안펀드
+6위 | 정승환 안테나 전속계약 종료
+7위 | 남유정 솔로라이프 공개
+8위 | 박종복 은행연합회장 내정
+9위 | 최교진 사퇴
+10위 | 강지영 굿모닝FM DJ 발탁
+11위 | 솔비 이규한 결혼 비화
+12위 | 이재명 지지율 상승
+13위 | 정년연장
+14위 | 정형돈 21kg 감량
+15위 | 한국전력공사
